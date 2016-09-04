@@ -1,0 +1,62 @@
+
+
+<li class="service" id="<%=serviceType %>_x0" >
+	<div class="heading">
+		<div class="wrap">
+			<div class="hd"><img alt="" src="images/pond-hd.jpg">
+			</div>
+			<div class="r1">
+				<p id="<%=serviceType %>_x1" class="btn x1" href="javascript:void(0);"><img id="img444" alt=""
+					src="images/pond-btn1.jpg"></a>
+				<p id="<%=serviceType %>_x2"class="btn x2" href="javascript:void(0);"><img alt=""
+					src="images/pond-btn2.jpg"></a>
+				<p id="<%=serviceType %>_x3" class="btn x3" href="javascript:void(0);"><img alt=""
+					src="images/pond-btn3.jpg"></a>
+			</div>
+			<div class="r2">
+				<span><img alt="" src="images/pond-flower.jpg"></span>
+			</div>
+			<div class="r3">
+				<p id="<%=serviceType %>_x4" class="btn x4" ><img alt=""
+					src="images/pond-btn4.jpg">
+				</p>
+				<p id="<%=serviceType %>_x5" class="btn x5" ><img alt=""
+					src="images/pond-btn5.jpg">
+				</p>
+				<p  id="<%=serviceType %>_x6" class="btn x6" ><img alt=""
+					src="images/pond-btn6.jpg">
+				</p>
+			</div>
+		</div>
+	</div>
+	<div class="video-list">
+		<div class="video-container">
+			<div  class="videos">
+				<ul class="videos-containers">
+
+                    <%
+
+                    _.each(videoObjects, function(videoObject){
+                   %>
+
+                    <li class="video" id="thumb<%= videoObject.videoServiceId %>">
+                        <div class="img">
+                            <img class="<%= videoObject.videoServiceId %>" src="<%= videoObject.thumbURL %>" />
+                        </div>
+
+                        <div class="options">
+                            <a class="fav" title="" rel="" href="#"></a>
+                            <a class="share" href="#"></a>
+                            <a class="dollar" target="_blank" href="<%= videoObject.videoDollor %>"></a>
+                            <a class="info" target="_blank" href="<%= videoObject.videoDollor %>"></a>
+                            <input class="checkBox" id="thumbchk<%= videoObject.videoServiceId %>" type="checkbox"/>
+                        </div>
+                    </li>
+                 <%   }); %>
+
+				</ul>
+			</div>
+		</div>
+	</div>
+</li>
+

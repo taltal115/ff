@@ -1,0 +1,82 @@
+[17-Dec-2012 09:26:58] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[18-Dec-2012 10:50:41] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[09-Mar-2013 21:40:22] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[30-Mar-2013 14:51:00 US/Central] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[02-Apr-2013 11:28:29 US/Central] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[07-Apr-2013 05:23:46 US/Central] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[09-May-2013 06:01:42 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-May-2013 06:01:42 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-May-2013 06:01:42 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/php52/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/php52/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[09-May-2013 06:01:42 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-May-2013 06:01:42 America/Chicago] PHP Warning:  PHP Startup: ffmpeg: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-May-2013 06:01:42 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-May-2013 06:01:42 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-May-2013 06:01:42 America/Chicago] PHP Warning:  PHP Startup: ssh2: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[09-May-2013 06:01:42 America/Chicago] PHP Deprecated:  Directive 'magic_quotes_gpc' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[09-May-2013 06:01:42 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[11-Jun-2013 01:51:38 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[09-Jul-2013 02:15:33 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[19-Jul-2013 09:45:36 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[26-Jul-2013 14:39:52 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[27-Jul-2013 00:58:36 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[28-Jul-2013 01:43:51 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[28-Jul-2013 11:12:49 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[03-Aug-2013 04:22:47 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[04-Aug-2013 01:05:42 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[07-Aug-2013 01:20:17 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[11-Aug-2013 09:54:48 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[12-Aug-2013 14:41:35 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[14-Aug-2013 04:38:41 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[14-Aug-2013 07:26:26 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[15-Aug-2013 21:36:03 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[16-Aug-2013 09:53:57 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[17-Aug-2013 18:00:27 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[26-Aug-2013 15:29:16 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[30-Aug-2013 05:40:49 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[14-Sep-2013 05:19:07 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[29-Sep-2013 06:03:31 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[01-Oct-2013 01:21:15 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[14-Oct-2013 05:48:05 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[21-Oct-2013 14:16:34 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[25-Oct-2013 07:13:56 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[29-Oct-2013 05:32:51 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[03-Nov-2013 18:24:50 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[04-Nov-2013 18:52:18 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[13-Nov-2013 04:57:26 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[26-Nov-2013 01:40:23 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[28-Nov-2013 04:41:24 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[28-Nov-2013 18:52:13 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[13-Dec-2013 04:48:51 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[31-Dec-2013 17:11:40 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[06-Jan-2014 08:40:25 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc/ffservices/application/views/scripts/layout.phtml on line 1
+[04-Mar-2014 10:13:07 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc1/ffservices/application/views/scripts/layout.phtml on line 1
+[07-Mar-2014 00:12:30 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc1/ffservices/application/views/scripts/layout.phtml on line 1
+[14-Mar-2014 16:00:50 America/Chicago] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffrc1/ffservices/application/views/scripts/layout.phtml on line 1

@@ -1,0 +1,6 @@
+[05-Jul-2016 09:21:34 UTC] PHP Fatal error:  Call to undefined method stdClass::update() in /home/findingf/public_html/videogridengine/protected/controllers/FoundboxRankingController.php on line 47
+[06-Jul-2016 01:29:51 UTC] PHP Fatal error:  Call to undefined method stdClass::update() in /home/findingf/public_html/videogridengine/protected/controllers/FoundboxRankingController.php on line 47
+[25-Jul-2016 21:13:29 UTC] PHP Fatal error:  Call to undefined method stdClass::update() in /home/findingf/public_html/videogridengine/protected/controllers/FoundboxRankingController.php on line 47
+[02-Sep-2016 15:52:20 UTC] PHP Fatal error:  Call to undefined method stdClass::update() in /home/findingf/public_html/videogridengine/protected/controllers/FoundboxRankingController.php on line 47
+[03-Sep-2016 01:23:37 UTC] PHP Fatal error:  Call to undefined method stdClass::update() in /home/findingf/public_html/videogridengine/protected/controllers/FoundboxRankingController.php on line 47
+[03-Sep-2016 08:16:00 UTC] PHP Fatal error:  Call to undefined method stdClass::update() in /home/findingf/public_html/videogridengine/protected/controllers/FoundboxRankingController.php on line 47

@@ -1,0 +1,361 @@
+[22-Nov-2012 19:07:47] PHP Warning:  include_once(FF/Api/FotoliaEngine.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/findingf/public_html/ffrc/ffservices/library/Zend/Loader.php on line 146
+[22-Nov-2012 19:07:47] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'FF/Api/FotoliaEngine.php' for inclusion (include_path='/home/findingf/public_html/ffrc/ffservices/application/../library:/home/findingf/public_html/ffrc/ffservices/library:.:/usr/lib/php:/usr/local/lib/php') in /home/findingf/public_html/ffrc/ffservices/library/Zend/Loader.php on line 146
+[22-Nov-2012 19:07:47] PHP Fatal error:  Class 'FF_Api_FotoliaEngine' not found in /home/findingf/public_html/ffrc/ffservices/library/FF/Api.php on line 34
+[15-Apr-2014 13:29:10] PHP Fatal error:  Class 'FF_Api_PondEngine' not found in /home/findingf/public_html/ffservices/library/FF/Api.php on line 231
+[13-Jun-2014 04:58:11] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/FotoliaEngine.php on line 69
+[15-Jun-2014 15:39:27] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/FotoliaEngine.php on line 75
+[15-Jun-2014 16:20:20] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/findingf/public_html/ffservices/library/FF/Api.php on line 98
+[15-Jun-2014 16:20:37] PHP Warning:  Wrong parameter count for max() in /home/findingf/public_html/ffservices/library/FF/Api.php on line 98
+[24-Jun-2014 12:19:30] PHP Fatal error:  Call to undefined method FF_Api_DepositPhotos::getSearchEmpty() in /home/findingf/public_html/ffservices/library/FF/Api.php on line 76
+[24-Jun-2014 12:19:46] PHP Warning:  include_once(FF/Api/Base.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/findingf/public_html/ffservices/library/Zend/Loader.php on line 146
+[24-Jun-2014 12:19:46] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'FF/Api/Base.php' for inclusion (include_path='/home/findingf/public_html/ffservices/application/../library:/home/findingf/public_html/ffservices/library:.:/usr/lib/php:/usr/local/lib/php') in /home/findingf/public_html/ffservices/library/Zend/Loader.php on line 146
+[24-Jun-2014 12:19:46] PHP Fatal error:  Class 'FF_Api_Base' not found in /home/findingf/public_html/ffservices/library/FF/Api/DepositPhotos.php on line 9
+[24-Jun-2014 12:20:39] PHP Warning:  include_once(FF/Api/Base.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/findingf/public_html/ffservices/library/Zend/Loader.php on line 146
+[24-Jun-2014 12:20:39] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'FF/Api/Base.php' for inclusion (include_path='/home/findingf/public_html/ffservices/application/../library:/home/findingf/public_html/ffservices/library:.:/usr/lib/php:/usr/local/lib/php') in /home/findingf/public_html/ffservices/library/Zend/Loader.php on line 146
+[24-Jun-2014 12:20:39] PHP Fatal error:  Class 'FF_Api_Base' not found in /home/findingf/public_html/ffservices/library/FF/Api/DepositPhotos.php on line 9
+[24-Jun-2014 12:21:50] PHP Warning:  include_once(FF/Api/Base.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/findingf/public_html/ffservices/library/Zend/Loader.php on line 146
+[24-Jun-2014 12:21:50] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'FF/Api/Base.php' for inclusion (include_path='/home/findingf/public_html/ffservices/application/../library:/home/findingf/public_html/ffservices/library:.:/usr/lib/php:/usr/local/lib/php') in /home/findingf/public_html/ffservices/library/Zend/Loader.php on line 146
+[24-Jun-2014 12:21:50] PHP Fatal error:  Class 'FF_Api_Base' not found in /home/findingf/public_html/ffservices/library/FF/Api/DepositPhotos.php on line 9
+[24-Jun-2014 12:21:57] PHP Warning:  include_once(FF/Api/Base.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/findingf/public_html/ffservices/library/Zend/Loader.php on line 146
+[24-Jun-2014 12:21:57] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'FF/Api/Base.php' for inclusion (include_path='/home/findingf/public_html/ffservices/application/../library:/home/findingf/public_html/ffservices/library:.:/usr/lib/php:/usr/local/lib/php') in /home/findingf/public_html/ffservices/library/Zend/Loader.php on line 146
+[24-Jun-2014 12:21:57] PHP Fatal error:  Class 'FF_Api_Base' not found in /home/findingf/public_html/ffservices/library/FF/Api/DepositPhotos.php on line 9
+[24-Jun-2014 12:22:13] PHP Warning:  include_once(FF/Api/Base.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/findingf/public_html/ffservices/library/Zend/Loader.php on line 146
+[24-Jun-2014 12:22:13] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'FF/Api/Base.php' for inclusion (include_path='/home/findingf/public_html/ffservices/application/../library:/home/findingf/public_html/ffservices/library:.:/usr/lib/php:/usr/local/lib/php') in /home/findingf/public_html/ffservices/library/Zend/Loader.php on line 146
+[24-Jun-2014 12:22:13] PHP Fatal error:  Class 'FF_Api_Base' not found in /home/findingf/public_html/ffservices/library/FF/Api/DepositPhotos.php on line 9
+[24-Jun-2014 12:23:14] PHP Warning:  include_once(FF/Api/Base.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/findingf/public_html/ffservices/library/Zend/Loader.php on line 146
+[24-Jun-2014 12:23:14] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'FF/Api/Base.php' for inclusion (include_path='/home/findingf/public_html/ffservices/application/../library:/home/findingf/public_html/ffservices/library:.:/usr/lib/php:/usr/local/lib/php') in /home/findingf/public_html/ffservices/library/Zend/Loader.php on line 146
+[24-Jun-2014 12:23:14] PHP Fatal error:  Class 'FF_Api_Base' not found in /home/findingf/public_html/ffservices/library/FF/Api/DepositPhotos.php on line 9
+[24-Jun-2014 12:41:10] PHP Warning:  include_once(FF/Api/RevoStockPhotos.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/findingf/public_html/ffservices/library/Zend/Loader.php on line 146
+[24-Jun-2014 12:41:10] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'FF/Api/RevoStockPhotos.php' for inclusion (include_path='/home/findingf/public_html/ffservices/application/../library:/home/findingf/public_html/ffservices/library:.:/usr/lib/php:/usr/local/lib/php') in /home/findingf/public_html/ffservices/library/Zend/Loader.php on line 146
+[24-Jun-2014 12:41:10] PHP Fatal error:  Class 'FF_Api_RevoStockPhotos' not found in /home/findingf/public_html/ffservices/library/FF/Api.php on line 86
+[24-Jun-2014 15:38:41] PHP Fatal error:  Class 'FF_DTO_ParametersDTO' not found in /home/findingf/public_html/ffservices/public/test.php on line 4
+[24-Jun-2014 15:41:38] PHP Fatal error:  Using $this when not in object context in /home/findingf/public_html/ffservices/public/test.php on line 40
+[24-Jun-2014 15:42:51] PHP Fatal error:  Class 'FF_DTO_ParametersDTO' not found in /home/findingf/public_html/ffservices/public/test.php on line 21
+[24-Jun-2014 15:47:13] PHP Catchable fatal error:  Object of class FF_DTO_ResultSetDTO could not be converted to string in /home/findingf/public_html/ffservices/library/FF/Api.php on line 226
+[24-Jun-2014 15:51:09] PHP Catchable fatal error:  Object of class FF_DTO_ResultSetDTO could not be converted to string in /home/findingf/public_html/ffservices/library/FF/Api.php on line 226
+[24-Jun-2014 15:55:43] PHP Catchable fatal error:  Object of class FF_DTO_ResultSetDTO could not be converted to string in /home/findingf/public_html/ffservices/library/FF/Api.php on line 226
+[24-Jun-2014 15:57:02] PHP Catchable fatal error:  Object of class FF_DTO_ResultSetDTO could not be converted to string in /home/findingf/public_html/ffservices/library/FF/Api.php on line 226
+[24-Jun-2014 16:07:09] PHP Fatal error:  Call to undefined method FF_Api_DepositPhotos::getOffsetFromPage() in /home/findingf/public_html/ffservices/library/FF/Api/DepositPhotos.php on line 48
+[24-Jun-2014 16:08:11] PHP Fatal error:  Uncaught exception 'Zend_Uri_Exception' with message 'An empty string was supplied for the scheme' in /home/findingf/public_html/ffservices/library/Zend/Uri.php:105
+Stack trace:
+#0 /home/findingf/public_html/ffservices/library/Zend/Http/Client.php(289): Zend_Uri::factory('')
+#1 /home/findingf/public_html/ffservices/library/Zend/XmlRpc/Client.php(266): Zend_Http_Client->setUri('')
+#2 /home/findingf/public_html/ffservices/library/Zend/XmlRpc/Client.php(372): Zend_XmlRpc_Client->doRequest(Object(Zend_XmlRpc_Request))
+#3 /home/findingf/public_html/ffservices/library/Zend/XmlRpc/Client/ServerProxy.php(93): Zend_XmlRpc_Client->call('system.methodSi...', Array)
+#4 /home/findingf/public_html/ffservices/library/Zend/XmlRpc/Client/ServerIntrospection.php(146): Zend_XmlRpc_Client_ServerProxy->__call('methodSignature', Array)
+#5 /home/findingf/public_html/ffservices/library/Zend/XmlRpc/Client/ServerIntrospection.php(146): Zend_XmlRpc_Client_ServerProxy->methodSignature('xmlrpc.getSearc...')
+#6 /home/findingf/public_html/ in /home/findingf/public_html/ffservices/library/Zend/Uri.php on line 105
+[24-Jun-2014 16:08:50] PHP Fatal error:  Uncaught exception 'Zend_Uri_Exception' with message 'An empty string was supplied for the scheme' in /home/findingf/public_html/ffservices/library/Zend/Uri.php:105
+Stack trace:
+#0 /home/findingf/public_html/ffservices/library/Zend/Http/Client.php(289): Zend_Uri::factory('')
+#1 /home/findingf/public_html/ffservices/library/Zend/XmlRpc/Client.php(266): Zend_Http_Client->setUri('')
+#2 /home/findingf/public_html/ffservices/library/Zend/XmlRpc/Client.php(372): Zend_XmlRpc_Client->doRequest(Object(Zend_XmlRpc_Request))
+#3 /home/findingf/public_html/ffservices/library/Zend/XmlRpc/Client/ServerProxy.php(93): Zend_XmlRpc_Client->call('system.methodSi...', Array)
+#4 /home/findingf/public_html/ffservices/library/Zend/XmlRpc/Client/ServerIntrospection.php(146): Zend_XmlRpc_Client_ServerProxy->__call('methodSignature', Array)
+#5 /home/findingf/public_html/ffservices/library/Zend/XmlRpc/Client/ServerIntrospection.php(146): Zend_XmlRpc_Client_ServerProxy->methodSignature('xmlrpc.getSearc...')
+#6 /home/findingf/public_html/ in /home/findingf/public_html/ffservices/library/Zend/Uri.php on line 105
+[24-Jun-2014 16:19:24] PHP Fatal error:  Uncaught exception 'Zend_XmlRpc_Client_FaultException' with message 'Failed to parse response' in /home/findingf/public_html/ffservices/library/Zend/XmlRpc/Client.php:381
+Stack trace:
+#0 /home/findingf/public_html/ffservices/library/FF/Api/DepositPhotos.php(60): Zend_XmlRpc_Client->call('xmlrpc.getSearc...', Array)
+#1 /home/findingf/public_html/ffservices/library/FF/Api.php(257): FF_Api_DepositPhotos->getSearchResults(Object(FF_DTO_ParametersDTO))
+#2 /home/findingf/public_html/ffservices/library/FF/SearchServices.php(42): FF_Api->searchDepositPhotos(Object(FF_DTO_ParametersDTO))
+#3 /home/findingf/public_html/ffservices/public/test.php(31): FF_SearchServices->searchVideos(Object(FF_DTO_ParametersDTO))
+#4 /home/findingf/public_html/ffservices/public/test.php(34): test_itsik()
+#5 {main}
+  thrown in /home/findingf/public_html/ffservices/library/Zend/XmlRpc/Client.php on line 381
+[24-Jun-2014 16:23:50] PHP Fatal error:  Uncaught exception 'Zend_XmlRpc_Client_FaultException' with message 'Failed to parse response' in /home/findingf/public_html/ffservices/library/Zend/XmlRpc/Client.php:381
+Stack trace:
+#0 /home/findingf/public_html/ffservices/library/FF/Api/DepositPhotos.php(60): Zend_XmlRpc_Client->call('xmlrpc.getSearc...', Array)
+#1 /home/findingf/public_html/ffservices/library/FF/Api.php(257): FF_Api_DepositPhotos->getSearchResults(Object(FF_DTO_ParametersDTO))
+#2 /home/findingf/public_html/ffservices/library/FF/SearchServices.php(42): FF_Api->searchDepositPhotos(Object(FF_DTO_ParametersDTO))
+#3 /home/findingf/public_html/ffservices/public/test.php(31): FF_SearchServices->searchVideos(Object(FF_DTO_ParametersDTO))
+#4 /home/findingf/public_html/ffservices/public/test.php(34): test_itsik()
+#5 {main}
+  thrown in /home/findingf/public_html/ffservices/library/Zend/XmlRpc/Client.php on line 381
+[24-Jun-2014 16:31:24] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/findingf/public_html/ffservices/library/FF/Api.php on line 257
+[24-Jun-2014 16:32:51] PHP Fatal error:  Cannot use object of type stdClass as array in /home/findingf/public_html/ffservices/library/FF/Api/DepositPhotos.php on line 75
+[24-Jun-2014 16:38:28] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/findingf/public_html/ffservices/library/FF/Api.php on line 257
+[24-Jun-2014 16:40:19] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/findingf/public_html/ffservices/library/FF/Api.php on line 257
+[24-Jun-2014 16:40:32] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/findingf/public_html/ffservices/library/FF/Api.php on line 257
+[24-Jun-2014 16:50:09] PHP Parse error:  syntax error, unexpected '[' in /home/findingf/public_html/ffservices/library/FF/Api/DepositPhotos.php on line 75
+[24-Jun-2014 16:50:26] PHP Fatal error:  Cannot use object of type stdClass as array in /home/findingf/public_html/ffservices/library/FF/Api/DepositPhotos.php on line 75
+[24-Jun-2014 16:55:47] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/findingf/public_html/ffservices/library/FF/Api.php on line 257
+[24-Jun-2014 16:58:28] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/findingf/public_html/ffservices/library/FF/Api.php on line 257
+[24-Jun-2014 17:01:19] PHP Catchable fatal error:  Object of class Zend_Rest_Client could not be converted to string in /home/findingf/public_html/ffservices/library/Zend/Json.php on line 74
+[24-Jun-2014 17:01:35] PHP Catchable fatal error:  Object of class Zend_Rest_Client could not be converted to string in /home/findingf/public_html/ffservices/library/FF/Api.php on line 257
+[24-Jun-2014 17:02:37] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/findingf/public_html/ffservices/library/FF/Api.php on line 257
+[24-Jun-2014 17:08:56] PHP Fatal error:  Uncaught exception 'Zend_Rest_Client_Exception' with message 'URI object must be set before performing call' in /home/findingf/public_html/ffservices/library/Zend/Rest/Client.php:106
+Stack trace:
+#0 /home/findingf/public_html/ffservices/library/Zend/Rest/Client.php(134): Zend_Rest_Client->_prepareRest('http://api.depo...')
+#1 /home/findingf/public_html/ffservices/library/FF/Api/DepositPhotos.php(59): Zend_Rest_Client->restGet('http://api.depo...', Array)
+#2 /home/findingf/public_html/ffservices/library/FF/Api.php(257): FF_Api_DepositPhotos->getSearchResults(Object(FF_DTO_ParametersDTO))
+#3 /home/findingf/public_html/ffservices/library/FF/SearchServices.php(42): FF_Api->searchDepositPhotos(Object(FF_DTO_ParametersDTO))
+#4 /home/findingf/public_html/ffservices/public/test.php(31): FF_SearchServices->searchVideos(Object(FF_DTO_ParametersDTO))
+#5 /home/findingf/public_html/ffservices/public/test.php(34): test_itsik()
+#6 {main}
+  thrown in /home/findingf/public_html/ffservices/library/Zend/Rest/Client.php on line 106
+[24-Jun-2014 17:14:25] PHP Fatal error:  Uncaught exception 'Zend_Http_Client_Exception' with message 'Cannot handle content type 'application/json' automatically. Please use Zend_Http_Client::setRawData to send this kind of content.' in /home/findingf/public_html/ffservices/library/Zend/Http/Client.php:1282
+Stack trace:
+#0 /home/findingf/public_html/ffservices/library/Zend/Http/Client.php(993): Zend_Http_Client->_prepareBody()
+#1 /home/findingf/public_html/ffservices/library/FF/Api/DepositPhotos.php(77): Zend_Http_Client->request('POST')
+#2 /home/findingf/public_html/ffservices/library/FF/Api.php(257): FF_Api_DepositPhotos->getSearchResults(Object(FF_DTO_ParametersDTO))
+#3 /home/findingf/public_html/ffservices/library/FF/SearchServices.php(42): FF_Api->searchDepositPhotos(Object(FF_DTO_ParametersDTO))
+#4 /home/findingf/public_html/ffservices/public/test.php(31): FF_SearchServices->searchVideos(Object(FF_DTO_ParametersDTO))
+#5 /home/findingf/public_html/ffservices/public/test.php(34): test_itsik()
+#6 {main}
+  thrown in /home/findingf/public_html/ffservices/library/Zend/Http/Client.php on line 1282
+[24-Jun-2014 17:15:15] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/findingf/public_html/ffservices/library/FF/Api.php on line 257
+[24-Jun-2014 17:16:34] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/findingf/public_html/ffservices/library/FF/Api.php on line 257
+[24-Jun-2014 17:18:00] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/findingf/public_html/ffservices/library/FF/Api.php on line 257
+[24-Jun-2014 18:21:29] PHP Fatal error:  Call to undefined function  getsearchempty() in /home/findingf/public_html/ffservices/library/FF/Api/RevoStock.php on line 40
+[24-Jun-2014 18:22:28] PHP Fatal error:  Call to undefined function  getsearchempty() in /home/findingf/public_html/ffservices/library/FF/Api/RevoStock.php on line 40
+[25-Jun-2014 11:52:45] PHP Parse error:  syntax error, unexpected $end, expecting '(' in /home/findingf/public_html/ffservices/library/FF/Api/DepositPhotos.php on line 51
+[25-Jun-2014 12:45:39] PHP Fatal error:  Uncaught exception 'Zend_Http_Client_Exception' with message 'Cannot handle content type '' automatically. Please use Zend_Http_Client::setRawData to send this kind of content.' in /home/findingf/public_html/ffservices/library/Zend/Http/Client.php:1282
+Stack trace:
+#0 /home/findingf/public_html/ffservices/library/Zend/Http/Client.php(993): Zend_Http_Client->_prepareBody()
+#1 /home/findingf/public_html/ffservices/library/FF/Api/Dreamstime.php(68): Zend_Http_Client->request('GET')
+#2 /home/findingf/public_html/ffservices/library/FF/Api.php(275): FF_Api_Dreamstime->getSearchResults(Object(FF_DTO_ParametersDTO))
+#3 /home/findingf/public_html/ffservices/library/FF/SearchServices.php(44): FF_Api->searchDreamstime(Object(FF_DTO_ParametersDTO))
+#4 /home/findingf/public_html/ffservices/public/test.php(31): FF_SearchServices->searchVideos(Object(FF_DTO_ParametersDTO))
+#5 /home/findingf/public_html/ffservices/public/test.php(34): test_itsik()
+#6 {main}
+  thrown in /home/findingf/public_html/ffservices/library/Zend/Http/Client.php on line 1282
+[25-Jun-2014 12:50:06] PHP Fatal error:  Uncaught exception 'Zend_XmlRpc_Client_FaultException' with message 'Invalid response' in /home/findingf/public_html/ffservices/library/Zend/XmlRpc/Client.php:381
+Stack trace:
+#0 /home/findingf/public_html/ffservices/library/FF/Api/Dreamstime.php(67): Zend_XmlRpc_Client->call('xmlrpc.getSearc...', Array)
+#1 /home/findingf/public_html/ffservices/library/FF/Api.php(275): FF_Api_Dreamstime->getSearchResults(Object(FF_DTO_ParametersDTO))
+#2 /home/findingf/public_html/ffservices/library/FF/SearchServices.php(44): FF_Api->searchDreamstime(Object(FF_DTO_ParametersDTO))
+#3 /home/findingf/public_html/ffservices/public/test.php(31): FF_SearchServices->searchVideos(Object(FF_DTO_ParametersDTO))
+#4 /home/findingf/public_html/ffservices/public/test.php(34): test_itsik()
+#5 {main}
+  thrown in /home/findingf/public_html/ffservices/library/Zend/XmlRpc/Client.php on line 381
+[25-Jun-2014 16:58:53] PHP Fatal error:  Uncaught exception 'Zend_Config_Exception' with message 'simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]: Entity: line 1: parser error : Start tag expected, '&lt;' not found
+simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]: 1e2c
+simplexml_load_string() [<a href='function.simplexml-load-string'>function.simplexml-load-string</a>]: ^' in /home/findingf/public_html/ffservices/library/Zend/Config/Xml.php:108
+Stack trace:
+#0 /home/findingf/public_html/ffservices/library/FF/Api/Dreamstime.php(70): Zend_Config_Xml->__construct('1e2c?????<?xml ...')
+#1 /home/findingf/public_html/ffservices/library/FF/Api.php(275): FF_Api_Dreamstime->getSearchResults(Object(FF_DTO_ParametersDTO))
+#2 /home/findingf/public_html/ffservices/library/FF/SearchServices.php(44): FF_Api->searchDreamstime(Object(FF_DTO_ParametersDTO))
+#3 /home/findingf/public_html/ffservices/public/test.php(31): FF_SearchServices->searchVideos(Object(FF_DT in /home/findingf/public_html/ffservices/library/Zend/Config/Xml.php on line 108
+[25-Jun-2014 16:59:25] PHP Catchable fatal error:  Object of class Zend_Config_Xml could not be converted to string in /home/findingf/public_html/ffservices/library/FF/Api.php on line 275
+[25-Jun-2014 17:08:40] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/Dreamstime.php on line 78
+[27-Jun-2014 03:03:50] PHP Fatal error:  Uncaught exception 'Zend_Http_Client_Exception' with message 'Unable to read response, or response is empty' in /home/findingf/public_html/ffservices/library/Zend/Http/Client.php:1025
+Stack trace:
+#0 /home/findingf/public_html/ffservices/public/test.php(64): Zend_Http_Client->request('POST')
+#1 /home/findingf/public_html/ffservices/public/test.php(36): login_itsik()
+#2 {main}
+  thrown in /home/findingf/public_html/ffservices/library/Zend/Http/Client.php on line 1025
+[28-Jun-2014 11:55:54] PHP Catchable fatal error:  Object of class Zend_Config_Xml could not be converted to string in /home/findingf/public_html/ffservices/library/FF/Api.php on line 275
+[28-Jun-2014 11:56:29] PHP Fatal error:  Class 'FF_Api' not found in /home/findingf/public_html/ffservices/library/FF/SearchServices.php on line 44
+[29-Jun-2014 10:56:52] PHP Fatal error:  Uncaught exception 'Zend_Http_Client_Exception' with message 'No valid URI has been passed to the client' in /home/findingf/public_html/ffservices/library/Zend/Http/Client.php:962
+Stack trace:
+#0 /home/findingf/public_html/ffservices/public/test.php(88): Zend_Http_Client->request('POST')
+#1 /home/findingf/public_html/ffservices/public/test.php(36): login_test2()
+#2 {main}
+  thrown in /home/findingf/public_html/ffservices/library/Zend/Http/Client.php on line 962
+[29-Jun-2014 10:58:59] PHP Fatal error:  Call to undefined method Zend_Http_Response::getRowBody() in /home/findingf/public_html/ffservices/public/test.php on line 89
+[29-Jun-2014 11:03:12] PHP Fatal error:  Call to undefined method Zend_Http_Response::getRowBody() in /home/findingf/public_html/ffservices/public/test.php on line 92
+[03-Jul-2014 19:50:36] PHP Warning:  Division by zero in /home/findingf/public_html/ffservices/library/FF/Api/FotoliaEngine.php on line 29
+[03-Jul-2014 19:50:38] PHP Warning:  Division by zero in /home/findingf/public_html/ffservices/library/FF/Api/ClipDealer.php on line 34
+[03-Jul-2014 19:50:38] PHP Warning:  Division by zero in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 32
+[03-Jul-2014 19:50:38] PHP Warning:  Division by zero in /home/findingf/public_html/ffservices/library/FF/Api/PondEngine.php on line 39
+[03-Jul-2014 19:50:40] PHP Warning:  Division by zero in /home/findingf/public_html/ffservices/library/FF/Api/DepositPhotos.php on line 30
+[09-Jul-2014 05:51:27] PHP Warning:  Division by zero in /home/findingf/public_html/ffservices/library/FF/Api/FotoliaEngine.php on line 29
+[09-Jul-2014 05:51:31] PHP Warning:  Division by zero in /home/findingf/public_html/ffservices/library/FF/Api/ClipDealer.php on line 34
+[09-Jul-2014 05:51:31] PHP Warning:  Division by zero in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 32
+[09-Jul-2014 05:51:31] PHP Warning:  Division by zero in /home/findingf/public_html/ffservices/library/FF/Api/PondEngine.php on line 39
+[09-Jul-2014 05:51:31] PHP Warning:  Division by zero in /home/findingf/public_html/ffservices/library/FF/Api/Dreamstime.php on line 30
+[09-Jul-2014 05:51:33] PHP Warning:  Division by zero in /home/findingf/public_html/ffservices/library/FF/Api/DepositPhotos.php on line 30
+[09-Jul-2014 06:23:38] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 62
+[13-Jul-2014 17:08:12] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 62
+[22-Jul-2014 07:44:23] PHP Fatal error:  Class 'FF_Api' not found in /home/findingf/public_html/ffservices/library/FF/SearchServices.php on line 31
+[22-Jul-2014 07:45:03] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/findingf/public_html/ffservices/library/FF/Api.php on line 149
+[22-Jul-2014 07:51:27] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/findingf/public_html/ffservices/library/FF/Api.php on line 149
+[22-Jul-2014 07:51:56] PHP Warning:  max() [<a href='function.max'>function.max</a>]: Array must contain at least one element in /home/findingf/public_html/ffservices/library/FF/Api.php on line 149
+[25-Aug-2014 19:26:34] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 62
+[30-Aug-2014 13:52:35] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 62
+[30-Aug-2014 13:53:09] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 62
+[31-Aug-2014 18:51:49] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 62
+[04-Sep-2014 08:36:24] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 62
+[04-Sep-2014 08:36:26] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 62
+[04-Sep-2014 08:39:49] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 62
+[04-Sep-2014 08:39:58] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 62
+[08-Sep-2014 10:59:06] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 62
+[26-Oct-2014 16:17:49] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 62
+[26-Oct-2014 16:18:08] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 62
+[30-Oct-2014 04:24:23] PHP Fatal error:  Cannot use object of type stdClass as array in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 64
+[30-Oct-2014 05:14:09] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:4430421.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:09] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:5085826.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:09] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:5829879.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:10] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:4452358.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:10] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:8793738.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:10] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:4649488.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:10] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:5501334.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:11] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:108463.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:11] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:8793532.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:11] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:8793548.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:11] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:3931582.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:11] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:7910672.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:12] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:6290220.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:12] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:3176003.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:12] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:7910674.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:12] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:4625267.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:12] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:7346126.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:13] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:7943531.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:13] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:988253.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:13] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:5123551.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:13] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:8373302.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:13] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:7996970.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:13] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:3476579.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:14] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:4649431.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:14] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:7340488.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:14] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:7937824.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:14] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:8171163.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:14] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:8189401.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:15] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:8189393.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:15] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:1583151.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:15] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:1583162.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:15] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:1715842.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:15] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:1721605.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:16] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:6614899.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:16] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:7504925.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:16] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:7964965.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:16] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:8180157.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:16] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:8180159.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:17] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:8373618.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:17] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:8390096.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:17] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:5431623.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:17] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:7497367.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:17] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:8988092.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:18] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:8430357.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:18] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:3355644.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:18] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:98704.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:18] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:4174224.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:18] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:7301718.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:14:18] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/item:91752.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:15:29] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/search:videohive,,home.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:15:33] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/search:videohive,,home.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 387
+[30-Oct-2014 05:17:57] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/search:videohive,,home.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 285
+[30-Oct-2014 05:18:17] PHP Warning:  file_get_contents(http://marketplace.envato.com/api/edge/search:videohive,,home.json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 422 Unprocessable Entity
+ in /home/findingf/public_html/ffservices/library/FF/Api/envato/Envato_marketplaces.php on line 286
+[30-Oct-2014 06:31:03] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/FotoliaEngine.php on line 97
+[30-Oct-2014 06:33:59] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/FotoliaEngine.php on line 111
+[30-Oct-2014 06:34:21] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/FotoliaEngine.php on line 112
+[30-Oct-2014 06:35:44] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/FotoliaEngine.php on line 112
+[30-Oct-2014 06:36:32] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/FotoliaEngine.php on line 112
+[30-Oct-2014 06:37:09] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/FotoliaEngine.php on line 112
+[30-Oct-2014 06:38:42] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/FotoliaEngine.php on line 112
+[30-Oct-2014 06:45:13] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/FotoliaEngine.php on line 113
+[30-Oct-2014 06:45:53] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/FotoliaEngine.php on line 113
+[14-Nov-2014 09:53:29] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[18-Nov-2014 03:59:06] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[18-Nov-2014 06:00:30] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[18-Nov-2014 06:01:19] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[10-Dec-2014 03:39:33] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[11-Jan-2015 15:09:27] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[11-Jan-2015 15:09:43] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[14-Jan-2015 04:00:46] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[14-Jan-2015 13:54:22] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[14-Jan-2015 13:55:12] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[16-Jan-2015 07:20:36] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[16-Jan-2015 07:21:19] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[16-Jan-2015 08:35:34] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[18-Jan-2015 15:30:54] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[18-Jan-2015 15:32:17] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[20-Jan-2015 06:57:40] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[23-Jan-2015 11:05:58] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[23-Jan-2015 11:06:05] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[23-Jan-2015 11:06:17] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[25-Jan-2015 06:52:06] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[25-Jan-2015 09:57:41] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[25-Jan-2015 09:57:52] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[25-Jan-2015 17:46:06] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[25-Jan-2015 18:24:58] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[26-Jan-2015 09:31:14] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[26-Jan-2015 10:22:26] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[26-Jan-2015 13:22:37] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[27-Jan-2015 11:12:43] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[27-Jan-2015 11:23:04] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[27-Jan-2015 12:25:01] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[27-Jan-2015 12:25:14] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[27-Jan-2015 14:49:51] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[27-Jan-2015 14:50:04] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[27-Jan-2015 16:15:22] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[27-Jan-2015 16:15:27] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[27-Jan-2015 16:52:57] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[28-Jan-2015 07:34:51] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[28-Jan-2015 14:38:40] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[30-Jan-2015 08:50:28] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[31-Jan-2015 11:28:24] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[02-Feb-2015 15:04:34] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[02-Feb-2015 15:04:45] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[04-Feb-2015 09:13:44] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[05-Feb-2015 05:07:45] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[11-Feb-2015 10:06:14] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[11-Feb-2015 15:30:57] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[11-Feb-2015 15:32:39] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[11-Feb-2015 15:34:57] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[11-Feb-2015 15:43:25] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[11-Feb-2015 15:50:27] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[11-Feb-2015 15:50:46] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[11-Feb-2015 15:53:26] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[16-Mar-2015 12:32:17] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[14-Jun-2016 18:01:45 America/Detroit] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[20-Jun-2016 14:57:06 America/Detroit] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[20-Jun-2016 15:36:58 America/Detroit] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[01-Jul-2016 05:47:50 America/Detroit] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[14-Jul-2016 08:11:17 America/Detroit] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/FotoliaEngine.php on line 112
+[23-Jul-2016 15:46:37 America/Detroit] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63
+[28-Jul-2016 11:45:33 America/Detroit] PHP Warning:  Invalid argument supplied for foreach() in /home/findingf/public_html/ffservices/library/FF/Api/VideoHive.php on line 63

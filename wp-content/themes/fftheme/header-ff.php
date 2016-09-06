@@ -185,6 +185,9 @@ src="https://www.facebook.com/tr?id=605851989567219&ev=PageView&noscript=1"
                 <div class="header-top">
                 </div>
                 <div class="logo-area">
+                    <div id="mainWrapper">
+                        <img src="<?php bloginfo( 'template_url' ); ?>/images/new/DesktopSlicing/home-banner.jpg" alt="">
+                    </div>
                     <div class="header-area-left">
                         <a href="#"><img src="<?php bloginfo( 'template_url' ); ?>/images/ff.png" alt="ff" width="63" height="62"/></a>
                         <a href="#"><img src="<?php bloginfo( 'template_url' ); ?>/images/fi.png" align="fi" width="63" height="62"/></a>

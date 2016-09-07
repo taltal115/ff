@@ -11,7 +11,8 @@
 
 get_header('ff');
 ?>
- 
+<img id="midHomeImg" src="http://stage.findingfootage.com/wp-content/themes/fftheme/images/new/DesktopSlicing/keywords-bg.jpg" alt="">
+
 <div id="txthome2" class="home_content">
 	<?php 
         if (have_posts()) : while (have_posts()) : the_post(); 
@@ -105,7 +106,14 @@ get_header('ff');
         top: 30%;
         left: 45%;
     }
+    #midHomeImg {
+        width: 100%;
+        position: absolute;
+        z-index: -1;
+        top: 1000px;
+    }
 </style>
+
 
 
 

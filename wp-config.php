@@ -34,12 +34,12 @@
 define('DB_NAME', 'findingf_live');
 //define('DB_NAME', 'findingfootage');
 /** MySQL database username */
-//define('DB_USER', 'findingf_live');
-define('DB_USER', 'root');
+define('DB_USER', 'findingf_live');
+//define('DB_USER', 'root');
 
 /** MySQL database password */
-//define('DB_PASSWORD', 'D@coders0333');
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', 'D@coders0333');
+//define('DB_PASSWORD', 'root');
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
 

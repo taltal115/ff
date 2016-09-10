@@ -3762,3 +3762,27 @@ Stack trace:
 #32 {main}
 REQUEST_URI=/videogridengine/index.php/search?SearchBarForm%5BsearchKeywords%5D=moon&direction=h
 ---
+2016/09/10 13:55:03 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1044] Access denied for user 'findingf_live'@'localhost' to database 'findingf_tal' in /var/www/html/libs/yii119/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/html/libs/yii119/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/html/libs/yii119/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/html/libs/yii119/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/html/libs/yii119/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/html/libs/yii119/framework/db/ar/CActiveRecord.php(619): CApplication->getDb()
+#5 /var/www/html/libs/yii119/framework/db/ar/CActiveRecord.php(2262): CActiveRecord->getDbConnection()
+#6 /var/www/html/libs/yii119/framework/db/ar/CActiveRecord.php(383): CActiveRecordMetaData->__construct(Object(Foundbox))
+#7 /var/www/html/libs/yii119/framework/db/ar/CActiveRecord.php(398): CActiveRecord::model('Foundbox')
+#8 /var/www/html/libs/yii119/framework/db/ar/CActiveRecord.php(78): CActiveRecord->getMetaData()
+#9 /var/www/html/videogridengine/protected/controllers/FoundboxesController.php(7): CActiveRecord->__construct('search')
+#10 /var/www/html/libs/yii119/framework/web/actions/CInlineAction.php(50): FoundboxesController->actionIndex()
+#11 /var/www/html/libs/yii119/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#12 /var/www/html/libs/yii119/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#13 /var/www/html/libs/yii119/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 /var/www/html/libs/yii119/framework/web/CWebApplication.php(283): CController->run('')
+#15 /var/www/html/libs/yii119/framework/web/CWebApplication.php(142): CWebApplication->runController('foundboxes')
+#16 /var/www/html/libs/yii119/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#17 /var/www/html/videogridengine/index.php(15): CApplication->run()
+#18 {main}
+REQUEST_URI=/videogridengine/index.php/foundboxes
+HTTP_REFERER=http://localhost/
+---

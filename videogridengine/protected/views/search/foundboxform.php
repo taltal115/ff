@@ -44,7 +44,7 @@ $form = $this->beginWidget('GxActiveForm', array(
     
     <div id="addtobox" class="row" style="border: 1px solid black; border-radius: 5px;">
         <div style="height: 170px; margin-top: 20px; padding: 10px;">
-        <div><? echo $form->labelEx($model, 'SelectedFoundBox'); ?>:</div>
+        <div><?php echo $form->labelEx($model, 'SelectedFoundBox'); ?>:</div>
         
         <?
         echo $form->dropDownList($model, 'selectedFBox', array());

@@ -64,7 +64,7 @@
 
 </style>
 
-<?
+<?php
 
 if (isset($box)) {
     if($box->id > 0){
@@ -82,7 +82,7 @@ if (isset($box)) {
         <img alt="" src="/videogridengine/css/fftheme/images/video_right.png" onclick="loadHomeBox('next')" onmouseout="SwapImage('/videogridengine/css/fftheme/images/video_right.png',this);" onmouseover="SwapImage('/videogridengine/css/fftheme/images/video_right_hv.png',this);" style="cursor:pointer">
     </div>
     <div class="videos">
-    <?
+    <?php
         $this->renderPartial('_home_box', array(
             'box' => $box));
     ?>

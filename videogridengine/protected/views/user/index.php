@@ -94,7 +94,7 @@ function getValItem($val,$name){
                 <textarea readonly="readonly" name="sellhere" rows="6" cols="50"><?=esc_attr( get_the_author_meta( 'sellhere', $user_ID) );?></textarea>
             </div>
         </div>
-        <? if($current_user->ID == $user_ID){?>
+        <?php if($current_user->ID == $user_ID){?>
         <div style="width: 420px; margin: 10px 0 0 0; text-align: right;">
             <a style="color: gray; text-decoration: none;" href="user/edit">EDIT</a>
         </div>

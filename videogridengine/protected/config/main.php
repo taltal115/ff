@@ -82,7 +82,8 @@ return array(
 		// uncomment the following to use a MySQL database
 		 
 		'db'=>array(
-			'connectionString' => 'mysql:host=localhost;dbname=findingf_tal',
+//			'connectionString' => 'mysql:host=localhost;dbname=findingf_tal',
+			'connectionString' => 'mysql:host=localhost;dbname=findingf_live',
                //   'connectionString' => 'mysql:host=localhost;dbname=findingfootage',
 			'emulatePrepare' => true,
 			'username' => 'findingf_live',

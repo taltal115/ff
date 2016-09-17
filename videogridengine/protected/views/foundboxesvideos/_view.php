@@ -13,7 +13,7 @@
 <li class="video"
     id="<?php echo GxHtml::encode($data->vid_src_id); ?>" data-video-id="<?php echo GxHtml::encode($data->id); ?>">
     <!-- USE FOR actionRemoveClipsForm -->
-    <? $videoObjectJSON = '{"__className":"FF_DTO_VideoObjectDTO","videoId":"'.$data->vid_src_id.'","date_created":"'.$data->date_created.'","videoName":"'.$data->title.'","description":"'.$data->description.'","videoDollor":"'.$data->vid_src_url.'","videoFlvURL":"'.urlencode(str_replace('"',"'",$data->vid_flv_path)).'","videoServiceId":"'.$data->vid_src_id.'","thumbURL":"'.$data->vid_thumb_url.'","wp_foundbox_id":"'.$data->wp_foundbox_id.'","wp_video_id":"'.$data->id.'","cookie_url":"'.$data->cookie_url.'","wp_service_id":"null"}'; ?>
+    <?php $videoObjectJSON = '{"__className":"FF_DTO_VideoObjectDTO","videoId":"'.$data->vid_src_id.'","date_created":"'.$data->date_created.'","videoName":"'.$data->title.'","description":"'.$data->description.'","videoDollor":"'.$data->vid_src_url.'","videoFlvURL":"'.urlencode(str_replace('"',"'",$data->vid_flv_path)).'","videoServiceId":"'.$data->vid_src_id.'","thumbURL":"'.$data->vid_thumb_url.'","wp_foundbox_id":"'.$data->wp_foundbox_id.'","wp_video_id":"'.$data->id.'","cookie_url":"'.$data->cookie_url.'","wp_service_id":"null"}'; ?>
     <div id="data<?php echo GxHtml::encode($data->vid_src_id); ?>" style="display: none"  ><?php echo $videoObjectJSON //CJSON::encode($data); ?></div>
 
     <script>
@@ -23,7 +23,7 @@
          }) 
     </script>
     <div class="img" id="<?php echo GxHtml::encode((str_replace('"',"'",$data->vid_flv_path))); ?>">
-        <?
+        <?php
         $infoOnClick = "openVideoDetailDialog('".CHtml::normalizeUrl(Yii::app()->createUrl('videodetail/videodetail'))."','".GxHtml::encode($data->vid_src_id)."')";
         if($boxId == $freeClipsId || true){
             $imgOnClick = $infoOnClick;
@@ -48,17 +48,17 @@
                ></span>
         </td>
         <td>
-        <? if($boxId == $freeClipsId || true){ ?>
+        <?php if($boxId == $freeClipsId || true){ ?>
         <a
             class="dollar" style="cursor: pointer;"
             onclick="<?=$infoOnClick?>"
             >
         </a>
-        <?}else{?>
+        <?php}else{?>
         <a class="dollar" target="_blank"
            href="<?php echo GxHtml::encode($data->vid_src_url);?>">
         </a>
-        <?}?>
+        <?php}?>
         </td>
         <td>
         <a

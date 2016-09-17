@@ -137,11 +137,11 @@
     </div --> 
     
     <div class="boxs">
-            <?
+            <?php
             foreach ($boxs as $box) {
             ?>
             <div class="box">
-                <?
+                <?php
                 if (isset($box)) {
                     if($box->id > 0){
                         $foundboxId = $box->id;
@@ -160,7 +160,7 @@
                 <div class="title"><a href="<?=$boxUrl?>"><?=$foundboxTitle ?></a></div>
                 <div class="videos">
                     <ul>
-                        <?
+                        <?php
                         if(isset($boxVideos)) {
                             foreach ($boxVideos as $video) {
                                 $title = " ";
@@ -173,14 +173,14 @@
                                  <li>
                                     <a href="<?=$boxUrl?>" title="<?php echo $title;?>" target="" class="img" id="<?php echo $vid_flv_path ?>"><img class="mini" width="45px" height="45px" src="<?php echo $vid_thumb_url ?>" alt="gallery thumbnail" /></a>
                                 </li>
-                            <?
+                            <?php
                             }  
                         } 
                         ?>
                     </ul> 
                 </div>
             </div>
-            <?
+            <?php
             }
             ?>
     </div> 

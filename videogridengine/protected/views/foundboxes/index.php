@@ -55,10 +55,10 @@ $this->menu = array(
                         ));
                         ?></div></div>
                         
-                        <? if(!Yii::app()->user->isGuest){ ?>              
+                        <?php if(!Yii::app()->user->isGuest){ ?>
                         <dir class="box_menu" onclick="gotoMayFoundBoxes(false)">My FoundBoxes</dir>
                         <dir class="box_menu" onclick="gotoAllFoundBoxes(false)">All FoundBoxes</dir>
-                        <? } ?>
+                        <?php } ?>
                         <h1 style="float: right;padding: 25px 10px; color: white;">Public Found Boxes </h1>    
                     </div>
                 </div>

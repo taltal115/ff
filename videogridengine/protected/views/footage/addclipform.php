@@ -100,7 +100,7 @@
         </tr>
     </table>
     
-    <?      
+    <?php
     $this->endWidget();
     ?>
 </div><!-- form -->

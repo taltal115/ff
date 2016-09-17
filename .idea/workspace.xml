@@ -1,13 +1,226 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5af08f5d-578b-4a1d-987d-e3f14bf72093" name="Default" comment="">
+    <list default="true" id="5af08f5d-578b-4a1d-987d-e3f14bf72093" name="Default" comment="images and homepage">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/60pc_black.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/60pc_black.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/Thumbs.db" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/Vimeo.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/Vimeo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/advance-seach-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/advance-seach-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/advance-seach-nav.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/advance-seach-nav.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/advance-seach.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/advance-seach.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/arrow-duwn.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/arrow-duwn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/b.gif" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/b.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/bkg_search.gif" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/bkg_search.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/blog-bg-left.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/blog-bg-left.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/blog-bg-right.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/blog-bg-right.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/blogger_logo.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/blogger_logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/cart-icon-hv.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/cart-icon-hv.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/cart-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/cart-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/f.gif" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/f.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/fa.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/fa.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/facebook-logo.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/facebook-logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/ff.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/ff.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/fi.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/fi.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/folder-customer-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/folder-customer-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/free-clip.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/free-clip.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/free-clips.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/free-clips.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/free-title.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/free-title.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/fs.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/fs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/home-icon-hv.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/home-icon-hv.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/home-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/home-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/icon_search.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/icon_search.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/left-bpx.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/left-bpx.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/loader.gif" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/logo-login.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/logo-login.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/logo.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/member-login.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/member-login.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/nav-bg-repat.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/nav-bg-repat.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/nav-bg.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/nav-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/nav-icon1.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/nav-icon1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/nav-icon2.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/nav-icon2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/nav-icon3.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/nav-icon3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/nav-search-boder.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/nav-search-boder.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/Vimeo-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/Vimeo-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/avatar.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/avatar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/big-arrow.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/big-arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/button1.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/button1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/button2.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/button2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/button3.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/button3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/category-bubbles.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/category-bubbles.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/category-business.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/category-business.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/category-creative.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/category-creative.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/category-gold.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/category-gold.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/category-nature.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/category-nature.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/category-pets.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/category-pets.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/category-racing.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/category-racing.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/category-swimming.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/category-swimming.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/fb-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/fb-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/free-tag.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/free-tag.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/heart-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/heart-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/home-banner.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/home-banner.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/home-video-arrow.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/home-video-arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/keywords-bg.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/keywords-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/login-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/login-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/logo.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/menu button.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/menu button.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/pachage-bg1.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/pachage-bg1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/package-bg2.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/package-bg2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/package-bg3.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/package-bg3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/play-button.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/play-button.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/pond5.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/pond5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/rating-star.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/rating-star.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/reb-button.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/reb-button.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/scroll-arrow.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/scroll-arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/search-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/search-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/share-fb-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/share-fb-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/share-gp-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/share-gp-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/share-in-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/share-in-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/share-pin-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/share-pin-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/share-tw-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/share-tw-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/signup-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/signup-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/tw-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/DesktopSlicing/tw-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/arrow.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/avatar.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/avatar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/banner.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/banner.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/big-arrow.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/big-arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/box-menu.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/box-menu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/button1.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/button1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/button2.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/button2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/button3.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/button3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/buynow-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/buynow-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/category-bubbles.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/category-bubbles.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/category-business.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/category-business.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/category-creative.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/category-creative.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/category-gold.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/category-gold.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/category-nature.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/category-nature.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/category-pets.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/category-pets.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/category-racing.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/category-racing.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/category-swimming.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/category-swimming.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/fb-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/fb-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/free-tag.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/free-tag.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/heart-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/heart-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/keywords-bg.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/keywords-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/login-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/login-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/logo.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/menu-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/menu-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/package1-bg.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/package1-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/package2-bg.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/package2-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/package3-bg.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/package3-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/pond5.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/pond5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/red-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/red-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/share-fb-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/share-fb-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/share-gp-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/share-gp-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/share-in-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/share-in-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/share-pin-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/share-pin-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/share-tw-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/share-tw-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/signup-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/signup-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/star.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/star.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/tw-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/tw-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/video-play.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/video-play.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/vimeo-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPadSlicing/vimeo-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/arrow.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/avatar.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/avatar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/banner.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/banner.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/box-menu-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/box-menu-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/button1.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/button1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/button2.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/button2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/button3.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/button3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/buynow-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/buynow-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/category-bubbles.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/category-bubbles.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/category-business.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/category-business.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/category-creative.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/category-creative.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/category-gold.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/category-gold.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/category-nature.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/category-nature.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/category-pets.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/category-pets.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/category-racing.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/category-racing.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/category-swimming.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/category-swimming.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/fb-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/fb-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/free-tag.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/free-tag.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/heart-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/heart-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/keywords-bg.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/keywords-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/login-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/login-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/logo.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/menu.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/menu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/package1-bg.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/package1-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/package2-bg.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/package2-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/package3-bg.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/package3-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/pond5.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/pond5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/red-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/red-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/search-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/search-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/share-fb-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/share-fb-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/share-gp-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/share-gp-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/share-in-icoin.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/share-in-icoin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/share-pin-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/share-pin-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/share-tw-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/share-tw-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/signup-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/signup-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/star.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/star.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/tw-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/tw-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/videoplay-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/videoplay-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/vimeo-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/new/iPhoneSlicing/vimeo-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/paging-bkg.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/paging-bkg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/refresh.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/refresh.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/reload.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/reload.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/right-icon1.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/right-icon1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/right-icon2.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/right-icon2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/right-icon3.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/right-icon3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/right-icon4.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/right-icon4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/roll-video.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/roll-video.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/searchbox-bg.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/searchbox-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/sin-up-now.gif" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/sin-up-now.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/star-icon-hv.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/star-icon-hv.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/star-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/star-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/submit button.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/submit button.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/submit-btn-new.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/submit-btn-new.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/t.gif" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/t.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/test-box-left.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/test-box-left.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/test-box-right.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/test-box-right.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/text-box-mid.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/text-box-mid.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/top-submit-btn.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/top-submit-btn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/twitter_logo_300x300.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/twitter_logo_300x300.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/user-icon-hv.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/user-icon-hv.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/user-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/user-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/images/video.png" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/images/video.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/error_log" afterPath="$PROJECT_DIR$/error_log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foundboxwidget2.php" afterPath="$PROJECT_DIR$/foundboxwidget2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videogridengine/protected/components/views/loginSliderView.php" afterPath="$PROJECT_DIR$/videogridengine/protected/components/views/loginSliderView.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videogridengine/protected/config/main.php" afterPath="$PROJECT_DIR$/videogridengine/protected/config/main.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videogridengine/protected/runtime/application.log" afterPath="$PROJECT_DIR$/videogridengine/protected/runtime/application.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/css/main.css" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videogridengine/protected/views/footage/_free_clips.php" afterPath="$PROJECT_DIR$/videogridengine/protected/views/footage/_free_clips.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videogridengine/protected/views/footage/_home_box.php" afterPath="$PROJECT_DIR$/videogridengine/protected/views/footage/_home_box.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videogridengine/protected/views/footage/_home_boxs.php" afterPath="$PROJECT_DIR$/videogridengine/protected/views/footage/_home_boxs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videogridengine/protected/views/footage/_search_boxs.php" afterPath="$PROJECT_DIR$/videogridengine/protected/views/footage/_search_boxs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videogridengine/protected/views/footage/_user_boxs.php" afterPath="$PROJECT_DIR$/videogridengine/protected/views/footage/_user_boxs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videogridengine/protected/views/footage/addboxform.php" afterPath="$PROJECT_DIR$/videogridengine/protected/views/footage/addboxform.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videogridengine/protected/views/footage/addclipform.php" afterPath="$PROJECT_DIR$/videogridengine/protected/views/footage/addclipform.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videogridengine/protected/views/footage/index.php" afterPath="$PROJECT_DIR$/videogridengine/protected/views/footage/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videogridengine/protected/views/foundboxes/index.php" afterPath="$PROJECT_DIR$/videogridengine/protected/views/foundboxes/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videogridengine/protected/views/foundboxesvideos/_mix.php" afterPath="$PROJECT_DIR$/videogridengine/protected/views/foundboxesvideos/_mix.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videogridengine/protected/views/foundboxesvideos/_view.php" afterPath="$PROJECT_DIR$/videogridengine/protected/views/foundboxesvideos/_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videogridengine/protected/views/search/foundboxform.php" afterPath="$PROJECT_DIR$/videogridengine/protected/views/search/foundboxform.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videogridengine/protected/views/search/index.php" afterPath="$PROJECT_DIR$/videogridengine/protected/views/search/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videogridengine/protected/views/search/test.php" afterPath="$PROJECT_DIR$/videogridengine/protected/views/search/test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videogridengine/protected/views/user/index.php" afterPath="$PROJECT_DIR$/videogridengine/protected/views/user/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-config.php" afterPath="$PROJECT_DIR$/wp-config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/bp-default.css" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/bp-default.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/error_log" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/error_log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/ffbuy-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/ffbuy-page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/ffclear-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/ffclear-page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/ffcontact-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/ffcontact-page.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/ffhome-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/ffhome-page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/ffregister-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/ffregister-page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/footer-ff.php" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/footer-ff.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/gridhome_page.php" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/gridhome_page.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/header-ff.php" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/header-ff.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/style_orig.css" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/style_orig.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/fftheme/widgets.php" afterPath="$PROJECT_DIR$/wp-content/themes/fftheme/widgets.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/shapely/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/shapely/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/shapely/inc/widgets/widget-home-clients.php" afterPath="$PROJECT_DIR$/wp-content/themes/shapely/inc/widgets/widget-home-clients.php" />
     </list>
     <list id="99575822-eb85-40a8-aba6-13e0ac01a9ea" name="Failed commit: Default" comment="images and homepage" />
     <ignored path="html.iws" />
@@ -30,44 +243,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="header-ff.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/header-ff.php">
+      <file leaf-file-name="_view.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/foundboxesvideos/_view.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="18" selection-start-line="3" selection-start-column="8" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="1260">
+              <caret line="70" column="116" selection-start-line="70" selection-start-column="116" selection-end-line="70" selection-end-column="116" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/shapely/header.php">
+      <file leaf-file-name="test.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/search/test.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+            <state relative-caret-position="1728">
+              <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer-ff.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/footer-ff.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/user/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="864">
-              <caret line="48" column="93" selection-start-line="0" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+            <state relative-caret-position="1800">
+              <caret line="100" column="13" selection-start-line="100" selection-start-column="13" selection-end-line="100" selection-end-column="13" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/shapely/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="777">
-              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-              <folding>
-                <element signature="e#6#241#0#PHP" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -75,38 +276,68 @@
       <file leaf-file-name="ffhome-page.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/ffhome-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="540">
+              <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/Parallax-One/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/Parallax-One/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/Parallax-One/home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="page.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/shapely/page.php">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/Parallax-One/page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="558">
+              <caret line="31" column="82" selection-start-line="31" selection-start-column="82" selection-end-line="31" selection-end-column="82" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="content-page.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/shapely/template-parts/content-page.php">
+      <file leaf-file-name="_free_clips.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backup/videogridengine/protected/views/footage/_free_clips.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+            <state relative-caret-position="1746">
+              <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/shapely/css/main.css">
+      <file leaf-file-name="_free_clips.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/footage/_free_clips.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+            <state relative-caret-position="385">
+              <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -128,7 +359,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wp-config.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/fftheme/js/main.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/fftheme/main.css" />
         <option value="$PROJECT_DIR$/index.php" />
@@ -138,7 +368,6 @@
         <option value="$PROJECT_DIR$/wp-content/themes/ffnew/template-home.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/ffnew/css/main.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/fftheme/style.css" />
-        <option value="$PROJECT_DIR$/wp-content/themes/fftheme/ffhome-page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/shapely/template-home.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/fftheme/header-ff.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/shapely/index.php" />
@@ -147,8 +376,37 @@
         <option value="$PROJECT_DIR$/wp-content/themes/shapely/template-parts/content-page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/shapely/css/main.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/shapely/page.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/shapely/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/shapely/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/shapely/header.php" />
+        <option value="$PROJECT_DIR$/wp-config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/zerif-lite/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/zerif-lite/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/zerif-lite/home.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/zerif-lite/page.php" />
+        <option value="$PROJECT_DIR$/videogridengine/protected/config/main.php" />
+        <option value="$PROJECT_DIR$/foundboxwidget2.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/Parallax-One/home.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/Parallax-One/header.php" />
+        <option value="$PROJECT_DIR$/error_log" />
+        <option value="$PROJECT_DIR$/wp-content/themes/shapely/inc/widgets/widget-home-clients.php" />
+        <option value="$PROJECT_DIR$/videogridengine/protected/views/footage/_home_box.php" />
+        <option value="$PROJECT_DIR$/videogridengine/protected/views/footage/_home_boxs.php" />
+        <option value="$PROJECT_DIR$/videogridengine/protected/views/footage/_search_boxs.php" />
+        <option value="$PROJECT_DIR$/videogridengine/protected/views/footage/_user_boxs.php" />
+        <option value="$PROJECT_DIR$/videogridengine/protected/views/footage/addboxform.php" />
+        <option value="$PROJECT_DIR$/videogridengine/protected/views/footage/addclipform.php" />
+        <option value="$PROJECT_DIR$/videogridengine/protected/views/footage/index.php" />
+        <option value="$PROJECT_DIR$/videogridengine/protected/components/views/loginSliderView.php" />
+        <option value="$PROJECT_DIR$/videogridengine/protected/views/foundboxes/index.php" />
+        <option value="$PROJECT_DIR$/videogridengine/protected/views/foundboxesvideos/_mix.php" />
+        <option value="$PROJECT_DIR$/videogridengine/protected/views/search/foundboxform.php" />
+        <option value="$PROJECT_DIR$/videogridengine/protected/views/search/index.php" />
+        <option value="$PROJECT_DIR$/videogridengine/protected/views/search/test.php" />
+        <option value="$PROJECT_DIR$/videogridengine/protected/views/user/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/Parallax-One/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/fftheme/ffhome-page.php" />
+        <option value="$PROJECT_DIR$/videogridengine/protected/views/foundboxesvideos/_view.php" />
+        <option value="$PROJECT_DIR$/videogridengine/protected/views/footage/_free_clips.php" />
       </list>
     </option>
   </component>
@@ -160,10 +418,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
     <option name="y" value="24" />
-    <option name="width" value="1301" />
-    <option name="height" value="744" />
+    <option name="width" value="1920" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -209,13 +466,45 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Rapid-inread" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
@@ -296,25 +585,26 @@
       <workItem from="1473260563997" duration="195000" />
       <workItem from="1473261233103" duration="13473000" />
       <workItem from="1473323456972" duration="1977000" />
-      <workItem from="1473507251248" duration="16741000" />
+      <workItem from="1473507251248" duration="23642000" />
+      <workItem from="1473614152107" duration="11595000" />
+      <workItem from="1473661965099" duration="138000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40967000" />
+    <option name="totallyTimeSpent" value="59601000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <frame x="0" y="24" width="1920" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2613546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18089648" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3271605" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22395833" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22376543" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -322,9 +612,29 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43645832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22376543" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26693228" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4367284" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -338,297 +648,272 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-config.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shapely/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1386">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videogridengine/test.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/index.php">
+    <entry file="file://$PROJECT_DIR$/videogridengine/error_log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/controllers/ApiController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5651">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/runtime/application.log.2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7322" column="139" selection-start-line="7322" selection-start-column="139" selection-end-line="7322" selection-end-column="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/zerif-lite/home.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/zerif-lite/index.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/zerif-lite/page.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/zerif-lite/content.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/zerif-lite/header.php" />
+    <entry file="file://$PROJECT_DIR$/backup/videogridengine/protected/controllers/FootageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="282" column="26" selection-start-line="282" selection-start-column="26" selection-end-line="282" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/controllers/FoundboxRankingController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-237">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foundboxwidget2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-89">
+          <caret line="155" column="0" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="85" column="76" selection-start-line="85" selection-start-column="76" selection-end-line="85" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backup/videogridengine/protected/views/footage/_home_boxs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="85" column="39" selection-start-line="85" selection-start-column="30" selection-end-line="85" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/controllers/FootageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="291" column="38" selection-start-line="291" selection-start-column="38" selection-end-line="291" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/header-ff.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3834">
-          <caret line="213" column="43" selection-start-line="213" selection-start-column="43" selection-end-line="213" selection-end-column="43" />
-          <folding />
+        <state relative-caret-position="324">
+          <caret line="24" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/style.css">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shapely/inc/customizer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3924">
-          <caret line="218" column="10" selection-start-line="218" selection-start-column="10" selection-end-line="218" selection-end-column="10" />
+        <state relative-caret-position="308">
+          <caret line="116" column="37" selection-start-line="116" selection-start-column="37" selection-end-line="116" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/videogridengine/protected/components/views/loginSliderView.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/shapely/inc/widgets/widget-home-clients.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="234">
+          <caret line="58" column="26" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error_log123">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114266">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error_log_old">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error_log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="6371" column="53" selection-start-line="6371" selection-start-column="53" selection-end-line="6371" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="193">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/header-ff.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3834">
-          <caret line="213" column="43" selection-start-line="213" selection-start-column="43" selection-end-line="213" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3924">
-          <caret line="218" column="10" selection-start-line="218" selection-start-column="10" selection-end-line="218" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videogridengine/protected/components/views/loginSliderView.php">
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/footage/_addboxform.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-config.php">
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/footage/_home_box.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+        <state relative-caret-position="576">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/header-ff.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3924">
-          <caret line="218" column="10" selection-start-line="218" selection-start-column="10" selection-end-line="218" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videogridengine/protected/components/views/loginSliderView.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/new_index.php" />
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/gridhome_page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/videogridengine/protected/components/views/loginSliderView.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="36" column="32" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-login-bk.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="258" column="57" selection-start-line="258" selection-start-column="4" selection-end-line="258" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ffnew/js/dev/parallax.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ffnew/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/common.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="122" column="18" selection-start-line="122" selection-start-column="18" selection-end-line="122" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ffnew/single.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ffnew/header.php">
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/footage/_home_boxs.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
-          <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
-          <folding />
+          <caret line="77" column="27" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ffnew/index.php">
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/footage/_home_login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ffnew/template-home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="10" selection-start-line="18" selection-start-column="4" selection-end-line="30" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ffnew/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2646">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/ffnew/css/main.css">
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/footage/_search_boxs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="137" column="14" selection-start-line="137" selection-start-column="14" selection-end-line="137" selection-end-column="14" />
-          <folding />
+        <state relative-caret-position="187">
+          <caret line="182" column="17" selection-start-line="182" selection-start-column="17" selection-end-line="182" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/style_orig.css">
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/footage/_user_boxs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="10" column="1778" selection-start-line="10" selection-start-column="1778" selection-end-line="10" selection-end-column="1778" />
-          <folding />
+        <state relative-caret-position="241">
+          <caret line="124" column="17" selection-start-line="124" selection-start-column="17" selection-end-line="124" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/style.css">
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/footage/addboxform.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="90" column="11" selection-start-line="90" selection-start-column="11" selection-end-line="90" selection-end-column="11" />
-          <folding />
+        <state relative-caret-position="255">
+          <caret line="168" column="11" selection-start-line="168" selection-start-column="11" selection-end-line="168" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shapely/js/dev/parallax.js">
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/footage/addclipform.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1188">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="198">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shapely/index.php">
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/footage/editbox.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-92">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shapely/template-home.php">
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/footage/editboxform.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-758">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/css/main.css">
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/footage/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="170" column="36" selection-start-line="169" selection-start-column="4" selection-end-line="170" selection-end-column="36" />
+        <state relative-caret-position="205">
+          <caret line="171" column="5" selection-start-line="171" selection-start-column="5" selection-end-line="171" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/footage/loadclips.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/footage/nouserform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/components/views/loginSliderView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="103" column="36" selection-start-line="103" selection-start-column="36" selection-end-line="103" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/foundboxes/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="60" column="29" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/foundboxesvideos/_mix.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="99" column="29" selection-start-line="99" selection-start-column="29" selection-end-line="99" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/search/foundboxform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/search/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="66" column="5" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/search/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1728">
+          <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shapely/js/main.js">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/Parallax-One/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -636,84 +921,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="100" column="3" selection-start-line="100" selection-start-column="3" selection-end-line="100" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shapely/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shapely/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shapely/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shapely/template-parts/content-page.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/Parallax-One/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/Parallax-One/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/user/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="100" column="13" selection-start-line="100" selection-start-column="13" selection-end-line="100" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/foundboxesvideos/_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="70" column="116" selection-start-line="70" selection-start-column="116" selection-end-line="70" selection-end-column="116" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/ffhome-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="540">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/footer-ff.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/Parallax-One/page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="48" column="93" selection-start-line="0" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        <state relative-caret-position="558">
+          <caret line="31" column="82" selection-start-line="31" selection-start-column="82" selection-end-line="31" selection-end-column="82" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shapely/header.php">
+    <entry file="file://$PROJECT_DIR$/backup/videogridengine/protected/views/footage/_free_clips.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+        <state relative-caret-position="1746">
+          <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/shapely/footer.php">
+    <entry file="file://$PROJECT_DIR$/videogridengine/protected/views/footage/_free_clips.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="777">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#241#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/fftheme/header-ff.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="18" selection-start-line="3" selection-start-column="8" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="385">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
           <folding />
         </state>
       </provider>

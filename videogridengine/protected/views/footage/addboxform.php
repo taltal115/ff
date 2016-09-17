@@ -44,16 +44,16 @@ $form = $this->beginWidget('GxActiveForm', array(
     
     <div id="addtobox" class="row" style="border: 1px solid black; border-radius: 5px;">
         <div style="height: 170px; margin-top: 20px; padding: 10px;">
-        <div><? echo $form->labelEx($model, 'SelectedFoundBox'); ?>:</div>
+        <div><?php echo $form->labelEx($model, 'SelectedFoundBox'); ?>:</div>
         
-        <?
+        <?php
         echo $form->dropDownList($model, 'selectedFBox', array());
          
         echo $form->hiddenField($model, 'foundBoxVideos');  
         ?>
         </div>
         <div style="text-align: center; margin-bottom: 10px;">
-        <?
+        <?php
         echo GxHtml::ajaxSubmitButton('Save',CHtml::normalizeUrl(Yii::app()->createUrl('search/foundbox')),array(
             'type'=>'POST',
             'error'=>'addError()',
@@ -90,7 +90,7 @@ $form = $this->beginWidget('GxActiveForm', array(
             
         </div>
         <div style="text-align: center; margin-bottom: 10px;">
-        <?
+        <?php
         echo GxHtml::ajaxSubmitButton('Save',CHtml::normalizeUrl(Yii::app()->createUrl('search/foundbox')),array(
             'type'=>'POST',
             'error'=>'addError()',

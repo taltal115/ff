@@ -42,7 +42,7 @@
     padding: 0 5px;
 }
 </style>
-<?
+<?php
 /*
 <a href="<?php echo Yii::app()->getBaseUrl() .'/index.php'?>/foundboxesvideos/index/<?php echo $data->id ?>">
 <?=$data->title?> 
@@ -96,16 +96,15 @@ $boxUrl = "videogridengine/index.php/foundboxesvideos/index/$foundboxId";
     }
 </script>
 <div class="freeclips">
-    <div class="title"><a href="<?=$boxUrl?>"><img src="/videogridengine/images/free-title.png" alt="" width="100%"></a></div>
     <div class="leftArrow">
-        <img alt="" src="/videogridengine/css/fftheme/images/video_left.png" onclick="movefreeclips('prevous')" onmouseout="SwapImage('/videogridengine/css/fftheme/images/video_left.png',this);" onmouseover="SwapImage('/videogridengine/css/fftheme/images/video_left_hv.png',this);" style="cursor:pointer">
+        <img alt="" src="/videogridengine/css/fftheme/images/video_left.png" onclick="movefreeclips('prevous')" onmouseout="SwapImage('localhost/videogridengine/css/fftheme/images/video_left.png',this);" onmouseover="SwapImage('/videogridengine/css/fftheme/images/video_left_hv.png',this);" style="cursor:pointer">
     </div>
     <div class="rightArrow">
-        <img alt="" src="/videogridengine/css/fftheme/images/video_right.png" onclick="movefreeclips('next')" onmouseout="SwapImage('/videogridengine/css/fftheme/images/video_right.png',this);" onmouseover="SwapImage('/videogridengine/css/fftheme/images/video_right_hv.png',this);" style="cursor:pointer">
+        <img alt="" src="/videogridengine/css/fftheme/images/video_right.png" onclick="movefreeclips('next')" onmouseout="SwapImage('localhost/videogridengine/css/fftheme/images/video_right.png',this);" onmouseover="SwapImage('/videogridengine/css/fftheme/images/video_right_hv.png',this);" style="cursor:pointer">
     </div>
     <div id="freeclips_out" style="overflow: hidden">
         <ul id="freeclips_in">
-        <?
+        <?php
         foreach ($boxVideos as $video) {
             $title = " ";
             $description = $video->description;
@@ -115,10 +114,9 @@ $boxUrl = "videogridengine/index.php/foundboxesvideos/index/$foundboxId";
             $vid_thumb_url = $video->vid_thumb_url;
         ?>
             <li>
-                <?/* -- NOT IN USE -- <a href="javascript:void(0)" title="<?php echo $title;?>" onClick="window.open('<?php echo $vid_src_url; ?>', '_blank', 'location=yes,height=580,width=820,top=70,left=600, scrollbars=yes,status=yes');" target="" class="img" id="<?php echo $vid_flv_path ?>"><img class="mini" width="110px" height="62px" src="<?php echo $vid_thumb_url ?>" alt="gallery thumbnail" /></a> */?> 
                 <a href="<?=$boxUrl?>" title="<?php echo $title;?>" target="" class="img" id="<?php echo $vid_flv_path ?>"><img class="mini" width="110px" height="62px" src="<?php echo $vid_thumb_url ?>" alt="gallery thumbnail" /></a>
             </li>
-        <?
+        <?php
         }   
         ?>
         </ul>

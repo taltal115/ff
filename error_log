@@ -6382,3 +6382,17 @@
 [27-Aug-2016 17:34:05 UTC] BEN ZONA IP: 212.92.127.87
 [28-Aug-2016 18:03:16 UTC] BEN ZONA IP: 212.92.127.87
 [29-Aug-2016 19:00:44 UTC] BEN ZONA IP: 212.92.127.87
+[10-Sep-2016 19:44:21 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/findingf/public_html/stage.findingfootage.com/wp-content/themes/shapely/inc/widgets/widget-home-clients.php on line 65
+[10-Sep-2016 19:44:56 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/findingf/public_html/stage.findingfootage.com/wp-content/themes/shapely/inc/widgets/widget-home-clients.php on line 65
+[10-Sep-2016 19:45:13 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/findingf/public_html/stage.findingfootage.com/wp-content/themes/shapely/inc/widgets/widget-home-clients.php on line 65
+[10-Sep-2016 19:49:21 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/findingf/public_html/stage.findingfootage.com/wp-content/themes/shapely/inc/widgets/widget-home-clients.php on line 65
+[10-Sep-2016 19:49:54 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/findingf/public_html/stage.findingfootage.com/wp-content/themes/shapely/inc/widgets/widget-home-clients.php on line 65
+[10-Sep-2016 19:49:57 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/findingf/public_html/stage.findingfootage.com/wp-content/themes/shapely/inc/widgets/widget-home-clients.php on line 65
+[10-Sep-2016 20:03:07 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/findingf/public_html/stage.findingfootage.com/wp-content/themes/shapely/inc/widgets/widget-home-clients.php on line 65
+[10-Sep-2016 20:34:25 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/findingf/public_html/stage.findingfootage.com/wp-content/themes/shapely/inc/widgets/widget-home-clients.php on line 65
+[10-Sep-2016 20:36:04 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/findingf/public_html/stage.findingfootage.com/wp-content/themes/shapely/inc/widgets/widget-home-clients.php on line 65
+[11-Sep-2016 20:11:25 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/findingf/public_html/stage.findingfootage.com/wp-content/themes/shapely/inc/widgets/widget-home-clients.php on line 65
+[11-Sep-2016 20:11:31 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/findingf/public_html/stage.findingfootage.com/wp-content/themes/shapely/inc/widgets/widget-home-clients.php on line 65
+[11-Sep-2016 20:11:31 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/findingf/public_html/stage.findingfootage.com/wp-content/themes/shapely/inc/widgets/widget-home-clients.php on line 65
+[11-Sep-2016 20:54:28 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /home/findingf/public_html/stage.findingfootage.com/wp-includes/shortcodes.php on line 193
+[11-Sep-2016 20:54:28 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home/findingf/public_html/stage.findingfootage.com/wp-includes/shortcodes.php on line 204

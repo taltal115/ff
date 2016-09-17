@@ -59,7 +59,13 @@
                         </div>
                     </div>
                 </nav>
-               
+                <div id="mainWrapper">
+                    <a href="<?php echo home_url( '/index.php' ); ?>">
+                        <div id="logoImage"></div>
+                    </a>
+                    <img src="http://localhost/wp-content/themes/fftheme/images/new/DesktopSlicing/home-banner.jpg" alt="">
+                </div>
+
             </div>
             <?php // do_action( 'bp_header' ) ?>
         </header> <!-- End Of header -->

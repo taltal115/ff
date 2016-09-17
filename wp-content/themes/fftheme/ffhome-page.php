@@ -32,20 +32,20 @@ get_header('ff');
       
     <div id="gallery">
         <div id="loading" style="display: none;"><img style="display: block;margin-top: 20px; margin-left: auto; margin-right: auto;" src='/videogridengine/css/fftheme/images/loader.gif'></div>
-        <?
+        <?php
         $urlFreeClips = home_url("/videogridengine/index.php/footage/FreeClipsHtml");
         $urlHomeBox = home_url("/videogridengine/index.php/footage/HomeBoxsHtml");
         ?>
         <div id="freeclips">
-            <? print_r(file_get_contents($urlFreeClips));?>      
+            <?php print_r(file_get_contents($urlFreeClips));?>
         </div>         
         <div id="foundboxs">
-            <? print_r(file_get_contents($urlHomeBox));?>    
+            <?php print_r(file_get_contents($urlHomeBox));?>
         </div>
         <script type="text/javascript">
             var m_HomeBoxTotal = <?=file_get_contents("$urlHomeBox?index=-1");?>;
             var m_HomeBoxIndex = 0;
-            console.log(m_HomeBoxTotal);
+            console.log('fdlskaf ldkasjhf kldjash fkldjh fkldjah ')
             $( document ).ready(function() {
                 //getBoxHtml(urlFreeClips + "?index=0",idFreeClips);
                 //getBoxHtml(urlHomeBox + "?index=0",idHomeBox); 

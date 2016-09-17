@@ -75,15 +75,15 @@ function removeSelectedClips() {
                 <div class="heading"> 
 
                     <div class="wrap">
-                        <? if($is_owner >= 1 || Yii::app()->user->name == "admin") { ?>
-                        <?          if($boxId == $freeClipsId){ ?>
+                        <?php if($is_owner >= 1 || Yii::app()->user->name == "admin") { ?>
+                        <?php          if($boxId == $freeClipsId){ ?>
                         <dir class="box_menu" onclick="openDialog('addclipdialog')">Add New Clip</dir>
-                        <?          } ?>
+                        <?php          } ?>
                         <dir class="box_menu" onclick="openDialog('editdialog')">Edit This Box</dir>
                         <dir class="box_menu" onclick="removeSelectedClips()">Remove Selected Clips</dir>
                         <dir class="box_menu" onclick="openDialog('removefoundboxdialog')">Delete FoundBox</dir>
                         
-                        <? } 
+                        <?php }
                         //$fbUser = WP_User::get_data_by('id',$fbUserID);
                         $fbUser = get_userdata($fbUserID);
                         $fullname = $fbUser->first_name; 
@@ -95,9 +95,9 @@ function removeSelectedClips() {
                         }       
                         $fbUserFullName = $fullname; 
                         ?>
-                        <? if(!Yii::app()->user->isGuest){?>
+                        <?php if(!Yii::app()->user->isGuest){?>
                         <dir class="box_menu" onclick="gotoMayFoundBoxes(false)">My FoundBoxes</dir>
-                        <? } ?> 
+                        <?php } ?>
                         <a href="/videogridengine/index.php/user?id=<?=$fbUserID?>" class="box_menu" style="margin-left: 10px; color: rgb(255,164,0);">By <?=$fbUserFullName?></a>
                         <h1 style="float: right;padding: 25px 10px; color: white;"><?php echo $title; ?></h1>
                     </div>

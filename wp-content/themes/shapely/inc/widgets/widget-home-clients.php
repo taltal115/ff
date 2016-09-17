@@ -62,7 +62,7 @@ class shapely_home_clients extends WP_Widget
 
     function form($instance) {
         if(!isset($instance['title']) ) $instance['title']='';
-        if(!isset($instance['client_logo']['img'])) $instance['client_logo']['img']=[''];
+//        if(!isset($instance['client_logo']['img'])) $instance['client_logo']['img']=[''];
         if(!isset($instance['client_logo']['link'])) $instance['client_logo']['link']=[''];
     ?>
 

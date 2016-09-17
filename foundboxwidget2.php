@@ -151,8 +151,8 @@
 //                $username = "'root";
                 $password = "'D@coders0333";
 //                $password = "'1q2w3e4r";
-//                $database = "findingf_live";
-                $database = "findingf_tal";
+                $database = "findingf_live";
+//                $database = "findingf_tal";
 
                 $foundboxId = $_GET["foundboxId"];
                 mysql_connect("localhost", $username, $password);

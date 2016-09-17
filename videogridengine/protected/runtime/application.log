@@ -3786,3 +3786,189 @@ Stack trace:
 REQUEST_URI=/videogridengine/index.php/foundboxes
 HTTP_REFERER=http://localhost/
 ---
+2016/09/11 19:54:22 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1044] Access denied for user 'findingf_live'@'localhost' to database 'findingf_tal' in /var/www/html/libs/yii119/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/html/libs/yii119/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/html/libs/yii119/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/html/libs/yii119/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/html/libs/yii119/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/html/libs/yii119/framework/db/ar/CActiveRecord.php(619): CApplication->getDb()
+#5 /var/www/html/libs/yii119/framework/db/ar/CActiveRecord.php(2262): CActiveRecord->getDbConnection()
+#6 /var/www/html/libs/yii119/framework/db/ar/CActiveRecord.php(383): CActiveRecordMetaData->__construct(Object(Foundbox))
+#7 /var/www/html/libs/yii119/framework/db/ar/CActiveRecord.php(398): CActiveRecord::model('Foundbox')
+#8 /var/www/html/libs/yii119/framework/db/ar/CActiveRecord.php(78): CActiveRecord->getMetaData()
+#9 /var/www/html/videogridengine/protected/controllers/FoundboxesController.php(7): CActiveRecord->__construct('search')
+#10 /var/www/html/libs/yii119/framework/web/actions/CInlineAction.php(50): FoundboxesController->actionIndex()
+#11 /var/www/html/libs/yii119/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#12 /var/www/html/libs/yii119/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#13 /var/www/html/libs/yii119/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 /var/www/html/libs/yii119/framework/web/CWebApplication.php(283): CController->run('')
+#15 /var/www/html/libs/yii119/framework/web/CWebApplication.php(142): CWebApplication->runController('foundboxes')
+#16 /var/www/html/libs/yii119/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#17 /var/www/html/videogridengine/index.php(15): CApplication->run()
+#18 {main}
+REQUEST_URI=/videogridengine/index.php/foundboxes
+---
+2016/09/11 20:30:39 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1044] Access denied for user 'findingf_live'@'localhost' to database 'findingf_tal' in /var/www/html/libs/yii119/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/html/libs/yii119/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/html/libs/yii119/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/html/libs/yii119/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/html/libs/yii119/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/html/libs/yii119/framework/db/ar/CActiveRecord.php(619): CApplication->getDb()
+#5 /var/www/html/libs/yii119/framework/db/ar/CActiveRecord.php(2262): CActiveRecord->getDbConnection()
+#6 /var/www/html/libs/yii119/framework/db/ar/CActiveRecord.php(383): CActiveRecordMetaData->__construct(Object(Foundbox))
+#7 /var/www/html/videogridengine/protected/extensions/giix-components/GxActiveRecord.php(26): CActiveRecord::model('Foundbox')
+#8 /var/www/html/videogridengine/protected/modules/users/models/_base/BaseFoundbox.php(29): GxActiveRecord::model('Foundbox')
+#9 /var/www/html/videogridengine/protected/modules/users/models/Foundbox.php(8): BaseFoundbox::model('Foundbox')
+#10 /var/www/html/videogridengine/protected/controllers/FootageController.php(258): Foundbox::model()
+#11 /var/www/html/libs/yii119/framework/web/actions/CInlineAction.php(50): FootageController->actionFreeClipsHtml()
+#12 /var/www/html/libs/yii119/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#13 /var/www/html/libs/yii119/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#14 /var/www/html/libs/yii119/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 /var/www/html/libs/yii119/framework/web/CWebApplication.php(283): CController->run('FreeClipsHtml')
+#16 /var/www/html/libs/yii119/framework/web/CWebApplication.php(142): CWebApplication->runController('footage/FreeCli...')
+#17 /var/www/html/libs/yii119/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#18 /var/www/html/videogridengine/index.php(15): CApplication->run()
+#19 {main}
+REQUEST_URI=/videogridengine/index.php/footage/FreeClipsHtml
+---
+2016/09/11 20:34:30 [error] [exception.CDbException] CDbException: CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1044] Access denied for user 'findingf_live'@'localhost' to database 'findingf_tal' in /var/www/html/libs/yii119/framework/db/CDbConnection.php:382
+Stack trace:
+#0 /var/www/html/libs/yii119/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/html/libs/yii119/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/html/libs/yii119/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/html/libs/yii119/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/html/libs/yii119/framework/db/ar/CActiveRecord.php(619): CApplication->getDb()
+#5 /var/www/html/libs/yii119/framework/db/ar/CActiveRecord.php(2262): CActiveRecord->getDbConnection()
+#6 /var/www/html/libs/yii119/framework/db/ar/CActiveRecord.php(383): CActiveRecordMetaData->__construct(Object(Foundbox))
+#7 /var/www/html/videogridengine/protected/extensions/giix-components/GxActiveRecord.php(26): CActiveRecord::model('Foundbox')
+#8 /var/www/html/videogridengine/protected/modules/users/models/_base/BaseFoundbox.php(29): GxActiveRecord::model('Foundbox')
+#9 /var/www/html/videogridengine/protected/modules/users/models/Foundbox.php(8): BaseFoundbox::model('Foundbox')
+#10 /var/www/html/videogridengine/protected/controllers/FootageController.php(258): Foundbox::model()
+#11 /var/www/html/libs/yii119/framework/web/actions/CInlineAction.php(50): FootageController->actionFreeClipsHtml()
+#12 /var/www/html/libs/yii119/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#13 /var/www/html/libs/yii119/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#14 /var/www/html/libs/yii119/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 /var/www/html/libs/yii119/framework/web/CWebApplication.php(283): CController->run('FreeClipsHtml')
+#16 /var/www/html/libs/yii119/framework/web/CWebApplication.php(142): CWebApplication->runController('footage/FreeCli...')
+#17 /var/www/html/libs/yii119/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#18 /var/www/html/videogridengine/index.php(15): CApplication->run()
+#19 {main}
+REQUEST_URI=/videogridengine/index.php/footage/FreeClipsHtml
+---
+2016/09/12 05:55:50 [error] [php] Invalid argument supplied for foreach() (/var/www/html/videogridengine/protected/views/footage/_free_clips.php:109)
+Stack trace:
+#0 /var/www/html/libs/yii119/framework/web/CController.php(870): FootageController->renderFile()
+#1 /var/www/html/videogridengine/protected/controllers/FootageController.php(260): FootageController->renderPartial()
+#2 /var/www/html/libs/yii119/framework/web/actions/CInlineAction.php(50): FootageController->actionFreeClipsHtml()
+#3 /var/www/html/libs/yii119/framework/web/CController.php(309): CInlineAction->runWithParams()
+#4 /var/www/html/libs/yii119/framework/web/CController.php(287): FootageController->runAction()
+#5 /var/www/html/libs/yii119/framework/web/CController.php(266): FootageController->runActionWithFilters()
+#6 /var/www/html/libs/yii119/framework/web/CWebApplication.php(283): FootageController->run()
+#7 /var/www/html/libs/yii119/framework/web/CWebApplication.php(142): CWebApplication->runController()
+#8 /var/www/html/libs/yii119/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#9 /var/www/html/videogridengine/index.php(15): CWebApplication->run()
+REQUEST_URI=/videogridengine/index.php/footage/FreeClipsHtml
+in /var/www/html/videogridengine/protected/views/footage/_free_clips.php (109)
+in /var/www/html/videogridengine/protected/controllers/FootageController.php (260)
+in /var/www/html/videogridengine/index.php (15)
+2016/09/12 06:23:08 [error] [exception.ParseError] ParseError: syntax error, unexpected end of file in /var/www/html/videogridengine/protected/views/foundboxesvideos/_view.php:79
+Stack trace:
+#0 /var/www/html/libs/yii119/framework/web/CBaseController.php(96): CBaseController->renderInternal('/var/www/html/v...', Array, false)
+#1 /var/www/html/libs/yii119/framework/zii/widgets/CListView.php(273): CBaseController->renderFile('/var/www/html/v...', Array)
+#2 /var/www/html/libs/yii119/framework/zii/widgets/CBaseListView.php(161): CListView->renderItems()
+#3 [internal function]: CBaseListView->renderSection(Array)
+#4 /var/www/html/libs/yii119/framework/zii/widgets/CBaseListView.php(144): preg_replace_callback('/{(\\w+)}/', Array, '{pager}{summary...')
+#5 /var/www/html/libs/yii119/framework/zii/widgets/CBaseListView.php(129): CBaseListView->renderContent()
+#6 /var/www/html/libs/yii119/framework/web/CBaseController.php(174): CBaseListView->run()
+#7 /var/www/html/videogridengine/protected/views/foundboxesvideos/_mix.php(119): CBaseController->widget('zii.widgets.CLi...', Array)
+#8 /var/www/html/libs/yii119/framework/web/CBaseController.php(127): require('/var/www/html/v...')
+#9 /var/www/html/libs/yii119/framework/web/CBaseController.php(96): CBaseController->renderInternal('/var/www/html/v...', Array, true)
+#10 /var/www/html/libs/yii119/framework/web/CController.php(870): CBaseController->renderFile('/var/www/html/v...', Array, true)
+#11 /var/www/html/videogridengine/protected/views/foundboxesvideos/index.php(121): CController->renderPartial('_mix', Array)
+#12 /var/www/html/libs/yii119/framework/web/CBaseController.php(127): require('/var/www/html/v...')
+#13 /var/www/html/libs/yii119/framework/web/CBaseController.php(96): CBaseController->renderInternal('/var/www/html/v...', Array, true)
+#14 /var/www/html/libs/yii119/framework/web/CController.php(870): CBaseController->renderFile('/var/www/html/v...', Array, true)
+#15 /var/www/html/libs/yii119/framework/web/CController.php(783): CController->renderPartial('index', Array, true)
+#16 /var/www/html/videogridengine/protected/controllers/FoundboxesvideosController.php(26): CController->render('index', Array)
+#17 [internal function]: FoundboxesvideosController->actionIndex('234')
+#18 /var/www/html/libs/yii119/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(FoundboxesvideosController), Array)
+#19 /var/www/html/libs/yii119/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(FoundboxesvideosController), Object(ReflectionMethod), Array)
+#20 /var/www/html/libs/yii119/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#21 /var/www/html/libs/yii119/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#22 /var/www/html/libs/yii119/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#23 /var/www/html/libs/yii119/framework/web/CWebApplication.php(283): CController->run('index')
+#24 /var/www/html/libs/yii119/framework/web/CWebApplication.php(142): CWebApplication->runController('foundboxesvideo...')
+#25 /var/www/html/libs/yii119/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#26 /var/www/html/videogridengine/index.php(15): CApplication->run()
+#27 {main}
+REQUEST_URI=/videogridengine/index.php/foundboxesvideos/index/234
+HTTP_REFERER=http://localhost/
+---
+2016/09/12 06:24:22 [error] [exception.ParseError] ParseError: syntax error, unexpected end of file in /var/www/html/videogridengine/protected/views/foundboxesvideos/_view.php:79
+Stack trace:
+#0 /var/www/html/libs/yii119/framework/web/CBaseController.php(96): CBaseController->renderInternal('/var/www/html/v...', Array, false)
+#1 /var/www/html/libs/yii119/framework/zii/widgets/CListView.php(273): CBaseController->renderFile('/var/www/html/v...', Array)
+#2 /var/www/html/libs/yii119/framework/zii/widgets/CBaseListView.php(161): CListView->renderItems()
+#3 [internal function]: CBaseListView->renderSection(Array)
+#4 /var/www/html/libs/yii119/framework/zii/widgets/CBaseListView.php(144): preg_replace_callback('/{(\\w+)}/', Array, '{pager}{summary...')
+#5 /var/www/html/libs/yii119/framework/zii/widgets/CBaseListView.php(129): CBaseListView->renderContent()
+#6 /var/www/html/libs/yii119/framework/web/CBaseController.php(174): CBaseListView->run()
+#7 /var/www/html/videogridengine/protected/views/foundboxesvideos/_mix.php(119): CBaseController->widget('zii.widgets.CLi...', Array)
+#8 /var/www/html/libs/yii119/framework/web/CBaseController.php(127): require('/var/www/html/v...')
+#9 /var/www/html/libs/yii119/framework/web/CBaseController.php(96): CBaseController->renderInternal('/var/www/html/v...', Array, true)
+#10 /var/www/html/libs/yii119/framework/web/CController.php(870): CBaseController->renderFile('/var/www/html/v...', Array, true)
+#11 /var/www/html/videogridengine/protected/views/foundboxesvideos/index.php(121): CController->renderPartial('_mix', Array)
+#12 /var/www/html/libs/yii119/framework/web/CBaseController.php(127): require('/var/www/html/v...')
+#13 /var/www/html/libs/yii119/framework/web/CBaseController.php(96): CBaseController->renderInternal('/var/www/html/v...', Array, true)
+#14 /var/www/html/libs/yii119/framework/web/CController.php(870): CBaseController->renderFile('/var/www/html/v...', Array, true)
+#15 /var/www/html/libs/yii119/framework/web/CController.php(783): CController->renderPartial('index', Array, true)
+#16 /var/www/html/videogridengine/protected/controllers/FoundboxesvideosController.php(26): CController->render('index', Array)
+#17 [internal function]: FoundboxesvideosController->actionIndex('234')
+#18 /var/www/html/libs/yii119/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(FoundboxesvideosController), Array)
+#19 /var/www/html/libs/yii119/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(FoundboxesvideosController), Object(ReflectionMethod), Array)
+#20 /var/www/html/libs/yii119/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#21 /var/www/html/libs/yii119/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#22 /var/www/html/libs/yii119/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#23 /var/www/html/libs/yii119/framework/web/CWebApplication.php(283): CController->run('index')
+#24 /var/www/html/libs/yii119/framework/web/CWebApplication.php(142): CWebApplication->runController('foundboxesvideo...')
+#25 /var/www/html/libs/yii119/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#26 /var/www/html/videogridengine/index.php(15): CApplication->run()
+#27 {main}
+REQUEST_URI=/videogridengine/index.php/foundboxesvideos/index/234
+HTTP_REFERER=http://localhost/
+---
+2016/09/12 06:25:15 [error] [exception.ParseError] ParseError: syntax error, unexpected end of file in /var/www/html/videogridengine/protected/views/foundboxesvideos/_view.php:79
+Stack trace:
+#0 /var/www/html/libs/yii119/framework/web/CBaseController.php(96): CBaseController->renderInternal('/var/www/html/v...', Array, false)
+#1 /var/www/html/libs/yii119/framework/zii/widgets/CListView.php(273): CBaseController->renderFile('/var/www/html/v...', Array)
+#2 /var/www/html/libs/yii119/framework/zii/widgets/CBaseListView.php(161): CListView->renderItems()
+#3 [internal function]: CBaseListView->renderSection(Array)
+#4 /var/www/html/libs/yii119/framework/zii/widgets/CBaseListView.php(144): preg_replace_callback('/{(\\w+)}/', Array, '{pager}{summary...')
+#5 /var/www/html/libs/yii119/framework/zii/widgets/CBaseListView.php(129): CBaseListView->renderContent()
+#6 /var/www/html/libs/yii119/framework/web/CBaseController.php(174): CBaseListView->run()
+#7 /var/www/html/videogridengine/protected/views/foundboxesvideos/_mix.php(119): CBaseController->widget('zii.widgets.CLi...', Array)
+#8 /var/www/html/libs/yii119/framework/web/CBaseController.php(127): require('/var/www/html/v...')
+#9 /var/www/html/libs/yii119/framework/web/CBaseController.php(96): CBaseController->renderInternal('/var/www/html/v...', Array, true)
+#10 /var/www/html/libs/yii119/framework/web/CController.php(870): CBaseController->renderFile('/var/www/html/v...', Array, true)
+#11 /var/www/html/videogridengine/protected/views/foundboxesvideos/index.php(121): CController->renderPartial('_mix', Array)
+#12 /var/www/html/libs/yii119/framework/web/CBaseController.php(127): require('/var/www/html/v...')
+#13 /var/www/html/libs/yii119/framework/web/CBaseController.php(96): CBaseController->renderInternal('/var/www/html/v...', Array, true)
+#14 /var/www/html/libs/yii119/framework/web/CController.php(870): CBaseController->renderFile('/var/www/html/v...', Array, true)
+#15 /var/www/html/libs/yii119/framework/web/CController.php(783): CController->renderPartial('index', Array, true)
+#16 /var/www/html/videogridengine/protected/controllers/FoundboxesvideosController.php(26): CController->render('index', Array)
+#17 [internal function]: FoundboxesvideosController->actionIndex('238')
+#18 /var/www/html/libs/yii119/framework/web/actions/CAction.php(107): ReflectionMethod->invokeArgs(Object(FoundboxesvideosController), Array)
+#19 /var/www/html/libs/yii119/framework/web/actions/CInlineAction.php(48): CAction->runWithParamsInternal(Object(FoundboxesvideosController), Object(ReflectionMethod), Array)
+#20 /var/www/html/libs/yii119/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#21 /var/www/html/libs/yii119/framework/web/CController.php(287): CController->runAction(Object(CInlineAction))
+#22 /var/www/html/libs/yii119/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#23 /var/www/html/libs/yii119/framework/web/CWebApplication.php(283): CController->run('index')
+#24 /var/www/html/libs/yii119/framework/web/CWebApplication.php(142): CWebApplication->runController('foundboxesvideo...')
+#25 /var/www/html/libs/yii119/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#26 /var/www/html/videogridengine/index.php(15): CApplication->run()
+#27 {main}
+REQUEST_URI=/videogridengine/index.php/foundboxesvideos/index/238
+HTTP_REFERER=http://localhost/
+---

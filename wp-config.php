@@ -27,10 +27,13 @@
 ///** MySQL hostname */
 //define('DB_HOST', 'localhost');
 
+define('WP_MEMORY_LIMIT', '64M');
+define('RELOCATE',true);
 
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
+//define('DB_NAME', 'findingf_tal');
 define('DB_NAME', 'findingf_live');
 //define('DB_NAME', 'findingfootage');
 /** MySQL database username */

@@ -1,5 +1,5 @@
 
-<?
+<?php
 
 if (isset($box)) {
     if($box->id > 0){
@@ -17,7 +17,7 @@ if (isset($box)) {
 ?>
 <div id="videos">
     <ul>
-        <?
+        <?php
         if(isset($boxVideos)) {
             foreach ($boxVideos as $video) {
                 $title = " ";
@@ -28,10 +28,9 @@ if (isset($box)) {
                 $vid_thumb_url = $video->vid_thumb_url;
             ?>
                  <li>
-                    <?/* -- NOT IN USE -- <a href="javascript:void(0)" title="<?php echo $title;?>" onClick="window.open('<?php echo $vid_src_url; ?>', '_blank', 'location=yes,height=580,width=820,top=70,left=600, scrollbars=yes,status=yes');" target="" class="img" id="<?php echo $vid_flv_path ?>"><img class="mini" width="65px" height="65px" src="<?php echo $vid_thumb_url ?>" alt="gallery thumbnail" /></a>*/?> 
                     <a href="videogridengine/index.php/foundboxesvideos/index/<?=$foundboxId?>" title="<?php echo $title;?>" target="" class="img" id="<?php echo $vid_flv_path ?>"><img class="mini" width="65px" height="65px" src="<?php echo $vid_thumb_url ?>" alt="gallery thumbnail" /></a>
                 </li>
-            <?
+            <?php
             }  
         } 
         ?>

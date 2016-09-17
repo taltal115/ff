@@ -101,7 +101,7 @@
 			
             <div class="left border" style="width:250px;">
 				<img src="<?php bloginfo('wpurl') ?>/wp-content/plugins/buddypress-sliding-login-panel/images/logo.png"  alt="Logo" />
-				<h2>Welcome to <? bloginfo('name'); ?></h2>		
+				<h2>Welcome to <?php bloginfo('name'); ?></h2>		
 				<p>Login or Signup to meet new friends, find out what's going on, and connect with others on the site. </p><br/>
 				
 			</div>

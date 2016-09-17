@@ -169,7 +169,7 @@
     }  
 </script>
 </body>
-<?
+<?php
      Yii::app()->end();
  ?>
 

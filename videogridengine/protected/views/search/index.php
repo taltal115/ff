@@ -64,7 +64,7 @@ switch ($pageDirection) {
     });
     function StartSearch(text)
     {
-<? 
+<?php
         if(isset($servicesPanels)) {
             $servicesPanelsJs = $servicesPanels;
             $servicesPanelsJs[] = array("serviceType" => "All");

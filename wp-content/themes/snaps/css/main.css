@@ -1,0 +1,217 @@
+
+#sthoverbuttons .sthoverbuttons-top-l {
+    background: none ;
+    width: 10%;
+}
+#sthoverbuttons .sthoverbuttons-shade-l {
+    background: none ;
+    width: 10%;
+}
+#sthoverbuttons .sthoverbuttons-bottom-l {
+    background:none;
+    width: 10%;
+}
+#sthoverbuttons #sthoverbuttons-background {
+    float: left;
+    width: 30px;
+}
+#sthoverbuttons #sthoverbuttonsMain {
+    float: right;
+}
+
+/* ----------- iPhone 6 ----------- */
+/* Portrait and Landscape */
+@media only screen
+and (min-device-width: 300px)
+and (max-device-width: 767px)
+and (-webkit-min-device-pixel-ratio: 2) {
+    #logoImage {
+        background-image: url(http://localhost/wp-content/themes/fftheme/images/new/iPhoneSlicing/logo.png);
+        width: 168px;
+        height: 61px;
+        position: absolute;
+        left: 20px;
+        top: 20px;
+        z-index: 1;
+        background-repeat: no-repeat;
+    }
+    /**/
+    /*#bigImage{*/
+    /*background-image: url(http://localhost/wp-content/themes/fftheme/images/new/iPhoneSlicing/banner.jpg);*/
+    /*width: 100%;*/
+    /*height: 365px;*/
+    /*right: 0;*/
+    /*position: absolute;*/
+    /*left: 0;*/
+    /*margin: 0 auto;*/
+    /*top: 0;*/
+    /*z-index: 0;*/
+    /*background-repeat: no-repeat;*/
+    /**/
+    /*}*/
+}
+
+/*!*!* ----------- iPad 1 and 2 ----------- *!*!*/
+/*!*!* Portrait and Landscape *!*!*/
+@media only screen
+and (min-device-width: 768px)
+and (max-device-width: 1024px)
+and (-webkit-min-device-pixel-ratio: 1) {
+    #logoImage {
+        background-image: url(http://localhost/wp-content/themes/fftheme/images/new/iPadSlicing/logo.png);
+        width: 168px;
+        height: 61px;
+        position: absolute;
+        left: 20px;
+        top: 20px;
+        z-index: 1;
+        background-repeat: no-repeat;
+    }
+    /**/
+    /*#bigImage{*/
+    /*background-image: url(http://localhost/wp-content/themes/fftheme/images/new/iPadSlicing/banner.jpg);*/
+    /*width: 100%;*/
+    /*height: 835px;*/
+    /*right: 0;*/
+    /*position: absolute;*/
+    /*left: 0;*/
+    /*margin: 0 auto;*/
+    /*top: 0;*/
+    /*z-index: 0;*/
+    /*background-repeat: no-repeat;*/
+    /*}*/
+}
+
+/*!*!* ----------- Non-Retina Screens ----------- *!*!*/
+@media screen
+and (min-device-width: 1025px)
+and (max-device-width: 1600px)
+and (-webkit-min-device-pixel-ratio: 1) {
+    #logoImage {
+        background-image: url(http://localhost/wp-content/themes/fftheme/images/new/DesktopSlicing/logo.png);
+        width: 168px;
+        height: 61px;
+        position: absolute;
+        left: 20px;
+        top: 20px;
+        z-index: 1;
+        background-repeat: no-repeat;
+    }
+    /*#bigImage{*/
+    /*background-image: url(http://localhost/wp-content/themes/fftheme/images/new/DesktopSlicing/home-banner.jpg);*/
+    /*width: 100%;*/
+    /*height: 835px;*/
+    /*right: 0;*/
+    /*position: absolute;*/
+    /*left: 0;*/
+    /*margin: 0 auto;*/
+    /*top: 0;*/
+    /*z-index: 0;*/
+    /*background-repeat: no-repeat;*/
+    /*}*/
+}
+/*#logoImage {*/
+/*background-image: url(http://localhost/wp-content/themes/fftheme/images/new/DesktopSlicing/logo.png);*/
+/*width: 168px;*/
+/*height: 61px;*/
+/*position: absolute;*/
+/*left: 20px;*/
+/*top: 20px;*/
+/*z-index: 1;*/
+/*background-repeat: no-repeat;*/
+/*}*/
+/*#bigImage{*/
+/*background-image: url(http://localhost/wp-content/themes/fftheme/images/new/DesktopSlicing/home-banner.jpg);*/
+/*width: 100%;*/
+/*height: 835px;*/
+/*right: 0;*/
+/*position: absolute;*/
+/*left: 0;*/
+/*margin: 0 auto;*/
+/*top: 0;*/
+/*z-index: 0;*/
+/*background-repeat: no-repeat;*/
+/*}*/
+
+.nav-links-right {
+    position: absolute;
+    top: 20px;
+    z-index: 1;
+    right: 20px;
+}
+
+.nav-links-right a{
+    color: #fff;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 15px;
+}
+#signIn {
+    float: right;
+    background: purple;
+    height: 40px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #888888;
+    line-height: 2.5;
+    margin: -10px 10px;
+}
+.FFsearch {
+    color: #fff;
+    position: absolute;
+    margin: 0 auto;
+    left: 0;
+    top: 100px;
+    text-align: center;
+    width: 442px;
+    right: 0;
+}
+
+#searchItem {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+#bigImage {
+    width: 100%;
+    position: relative;
+    z-index: 0;
+}
+#mainWrapper {
+    position: relative;
+}
+#mainWrapper img {
+    width: 100%;
+}
+#midHomeImg {
+    width: 100%;
+}
+#logoImage {
+    position: absolute;
+    z-index: 10;
+}
+.FFsearch h4{
+    margin: 5px 0;
+    color: #fff;
+    font-size: 16px;
+}
+.FFsearch h1{
+    margin: 0 0;
+    color: #fff;
+    font-size: 24px;
+}
+.FFsearch .input-box {
+    border: medium none;
+    color: #666666;
+    padding: 2px 5px 0;
+    width: 330px;
+    line-height: 35px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    vertical-align: middle;
+}
+#txthome2 {
+    margin: 500px 0 0;
+    width: 100%;
+    height: 510px;
+    float: right;
+}

@@ -1,8 +1,7 @@
 <style type="text/css">
 .freeclips {
-    
-    margin: 0 auto;
-    /*overflow: hidden;*/
+
+    margin: -3px auto;
 }
 .freeclips h3 {
     color: purple !important;
@@ -23,6 +22,8 @@
     display: inline;
     list-style-type: none;
     padding-right: 5px;
+    width: 20%;
+    margin: 0px -5px 0px;
 }
 
 .freeclips .leftArrow {
@@ -41,6 +42,14 @@
 .freeclips .title {
     padding: 0 5px;
 }
+#freeclips_in .mini {
+    height: 150px;
+    width: 150px;
+}
+    #freeTag {
+        position: absolute;
+        width: 10%;
+    }
 </style>
 <?php
 /*
@@ -58,7 +67,7 @@ $boxUrl = "videogridengine/index.php/foundboxesvideos/index/$foundboxId";
 ?>
 <script type="text/javascript">
     function movefreeclips(action) {
-        var space = 5;
+        var space = 10;
         var paneOut = $("#freeclips_out");
         var paneIn = $("#freeclips_in"); 
         var paneOutLeft = paneOut.offset().left;
@@ -96,12 +105,12 @@ $boxUrl = "videogridengine/index.php/foundboxesvideos/index/$foundboxId";
     }
 </script>
 <div class="freeclips">
-    <div class="leftArrow">
-        <img alt="" src="/videogridengine/css/fftheme/images/video_left.png" onclick="movefreeclips('prevous')" onmouseout="SwapImage('localhost/videogridengine/css/fftheme/images/video_left.png',this);" onmouseover="SwapImage('/videogridengine/css/fftheme/images/video_left_hv.png',this);" style="cursor:pointer">
-    </div>
-    <div class="rightArrow">
-        <img alt="" src="/videogridengine/css/fftheme/images/video_right.png" onclick="movefreeclips('next')" onmouseout="SwapImage('localhost/videogridengine/css/fftheme/images/video_right.png',this);" onmouseover="SwapImage('/videogridengine/css/fftheme/images/video_right_hv.png',this);" style="cursor:pointer">
-    </div>
+<!--    <div class="leftArrow">-->
+<!--        <img alt="" src="/videogridengine/css/fftheme/images/video_left.png" onclick="movefreeclips('prevous')" onmouseout="SwapImage('localhost/videogridengine/css/fftheme/images/video_left.png',this);" onmouseover="SwapImage('/videogridengine/css/fftheme/images/video_left_hv.png',this);" style="cursor:pointer">-->
+<!--    </div>-->
+<!--    <div class="rightArrow">-->
+<!--        <img alt="" src="/videogridengine/css/fftheme/images/video_right.png" onclick="movefreeclips('next')" onmouseout="SwapImage('localhost/videogridengine/css/fftheme/images/video_right.png',this);" onmouseover="SwapImage('/videogridengine/css/fftheme/images/video_right_hv.png',this);" style="cursor:pointer">-->
+<!--    </div>-->
     <div id="freeclips_out" style="overflow: hidden">
         <ul id="freeclips_in">
         <?php
@@ -114,6 +123,7 @@ $boxUrl = "videogridengine/index.php/foundboxesvideos/index/$foundboxId";
             $vid_thumb_url = $video->vid_thumb_url;
         ?>
             <li>
+                <img id="freeTag" src="http://stage.findingfootage.com/wp-content/themes/fftheme/images/new/DesktopSlicing/free-tag.png" alt="">
                 <a href="<?=$boxUrl?>" title="<?php echo $title;?>" target="" class="img" id="<?php echo $vid_flv_path ?>"><img class="mini" width="110px" height="62px" src="<?php echo $vid_thumb_url ?>" alt="gallery thumbnail" /></a>
             </li>
         <?php

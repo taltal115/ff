@@ -1,1 +1,0 @@
-[23-May-2016 20:29:35 America/Detroit] PHP Fatal error:  Call to undefined function add_action() in /home/findingf/public_html/wp-content/plugins/hello.php on line 60

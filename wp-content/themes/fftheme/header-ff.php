@@ -1,20 +1,21 @@
 <!doctype html>
 <html>
 	<head>
+        <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, minimum-scale=1.0, maximum-scale=3.0">
         <meta name="description" content="Search Wisely Browse Widely - Footage Search Engine with Free clips from around the web / Royalty free footage and Video backgrounds">
         <meta name="keywords" content="Footage, video footage, free video footage, stock footage, royalty free, hd, vj, timelapse, 4k footage, free 4k footage, video, background, PowerPoint background, Keynote background, presentation background, motion background, loop, motion graphics ,visuals, background visuals, video search, footage search engine ">
         <meta property="og:title" content="Finding Footage" />
-        <meta property="og:image" content="http://www.findingfootage.com/videogridengine/images/logo.png" /> 
-        <meta property="og:description" content="gives you fast and easy access to multiple video stocks at once, and expand your results. join us to find dozens of free clips online..." /> 
-    
+        <meta property="og:image" content="http://www.findingfootage.com/videogridengine/images/logo.png" />
+        <meta property="og:description" content="gives you fast and easy access to multiple video stocks at once, and expand your results. join us to find dozens of free clips online..." />
+
 		<meta http-equiv="Content-Type" content="<?php bloginfo( 'html_type' ) ?>; charset=<?php bloginfo( 'charset' ) ?>" />
-        
+
 		<title><?php wp_title( '|', true, 'right' ); bloginfo( 'name' ); ?></title>
         <link rel="shortcut icon" href="http://www.findingfootage.com/videogridengine/images/fficon.png?v=1" />
 
         <link rel="stylesheet" href="/wp-content/themes/fftheme/style.css" type="text/css" media="screen"/>
         <link rel="stylesheet" href="/wp-content/themes/fftheme/css/main.css" type="text/css" media="screen"/>
-        <link rel="stylesheet" href="/wp-content/themes/fftheme/bp-default.css" type="text/css" media="screen"/>
+<!--        <link rel="stylesheet" href="/wp-content/themes/fftheme/bp-default.css" type="text/css" media="screen"/>-->
 
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
         <script type="text/javascript" src="/wp-content/themes/fftheme/js/main.js"></script>
@@ -22,7 +23,7 @@
         <?php
 
         wp_head();
-       
+
         ?>
 
 	</head>
@@ -59,26 +60,11 @@
                         </div>
                     </div>
                 </nav>
-                <div id="mainWrapper">
-                    <a href="<?php echo home_url( '/index.php' ); ?>">
-                        <div id="logoImage"></div>
-                    </a>
-                    <img src="http://localhost/wp-content/themes/fftheme/images/new/DesktopSlicing/home-banner.jpg" alt="">
-                </div>
+
 
             </div>
             <?php // do_action( 'bp_header' ) ?>
         </header> <!-- End Of header -->
-
-
-        <div class="FFsearch">
-            <h1>Search for Stock Video</h1>
-            <h4>Find Royalty Free footage from multiple websites</h4>
-            <input id="searchItem" type="text" onBlur="this.value==''?this.value='Find Footage':''" onClick="this.value=='Find Footage'?this.value='':''" value="Find Footage" class="input-box"  onkeypress="return searchVideo(event)" title="Find Footage" />
-            <div id="searchBTN" onclick="StartSearch($('#searchItem').val())">
-                Search
-            </div>
-        </div>
 
     <div class="clear"></div>
         <!-- End of Navigation -->

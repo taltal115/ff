@@ -1,0 +1,24 @@
+== Changelog ==
+
+= Version 1.0.4 (December 9, 2015) =
+	* Updated Screenshot
+	* Fixed social icons on Primary menu with social class instead of individual class
+	* WP Title function added
+
+= Version 1.0.3 (February 3, 2015) =
+	* Added Separate Social Menu/ Replaced old hectic menu styling
+	* Added Title support for 4.1
+	* Changed style.css tags to support latest tags
+	* Fixed Responsive issues
+	* Fixed Responsive menu issue
+	* Changed Screenshot to 880 x 660
+	* Added css3 transition on link hovers
+
+= Version 1.0.2 (December 5, 2013) =
+	* Small screen layout bug fix
+
+= Version 1.0.1 (November 15, 2013) =
+	* PHP notices fix
+
+= Version 1.0 (April 10, 2013) =
+	* Initial release

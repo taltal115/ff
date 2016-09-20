@@ -1,2 +1,0 @@
-[23-May-2016 20:29:35 America/Detroit] PHP Fatal error:  Call to undefined function get_header() in /home/findingf/public_html/wp-content/themes/twentytwelve/404.php on line 10
-[08-Jul-2016 01:31:50 America/Detroit] PHP Fatal error:  Call to undefined function get_header() in /home/findingf/public_html/wp-content/themes/twentytwelve/404.php on line 10

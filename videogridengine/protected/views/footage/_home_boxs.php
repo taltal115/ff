@@ -30,8 +30,14 @@
     z-index: 1;
 }
 .foundboxs .videos {
-    overflow: hidden; 
-    padding-left: 0px;  
+    width: 64%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    background: #fff;
+    max-width: 894px;
+    height: 360px;
 }
 
 .foundboxs h3 {
@@ -43,16 +49,26 @@
     color: white !important;
     margin: 5px 0 0 0 !important;
 }
+#videos {
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-align: left;
+    margin: 0 auto;
+}
 .foundboxs ul
 {
-    position: relative;
-    white-space: normal;
+    /*white-space: normal;*/
+    /*list-style: none;*/
+    /*position: relative;*/
+    /*left: 50%;*/
 }
 .foundboxs li
 {
     display: inline;
     list-style-type: none;
-    padding-right: 5px;
+    float: left;
+    margin: 0 20px 0 0;
 }
 .foundboxs .title
 {
@@ -61,7 +77,16 @@
     padding: 5px 0 5px 0;
     text-align: center;
 }
-
+.new_title {
+    text-align: center;
+    margin: 20px 0;
+}
+.new_title h1 {
+    font-size: 24px;
+}
+.new_title h4 {
+    font-size: 16px;
+}
 </style>
 
 <?php
@@ -74,12 +99,10 @@ if (isset($box)) {
 }
 ?>
 <div class="foundboxs">
-    <div class="title" ><h3><a href="videogridengine/index.php/foundboxesvideos/index/<?=$foundboxId?>"><?=$foundboxTitle ?></a></h3></div>
-    <div class="leftArrow">
-        <img alt="" src="/videogridengine/css/fftheme/images/video_left.png" onclick="loadHomeBox('prevous')" onmouseout="SwapImage('/videogridengine/css/fftheme/images/video_left.png',this);" onmouseover="SwapImage('/videogridengine/css/fftheme/images/video_left_hv.png',this);" style="cursor:pointer">
-    </div> 
-    <div class="rightArrow">
-        <img alt="" src="/videogridengine/css/fftheme/images/video_right.png" onclick="loadHomeBox('next')" onmouseout="SwapImage('/videogridengine/css/fftheme/images/video_right.png',this);" onmouseover="SwapImage('/videogridengine/css/fftheme/images/video_right_hv.png',this);" style="cursor:pointer">
+
+    <div class="new_title">
+        <h1>Stock</h1>
+        <h4 style="color: #521a78;">Video Collection</h4>
     </div>
     <div class="videos">
     <?php

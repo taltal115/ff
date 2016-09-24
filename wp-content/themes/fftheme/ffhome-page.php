@@ -17,7 +17,10 @@ get_header('ff');
         <a href="<?php echo home_url( '/index.php' ); ?>">
             <div id="logoImage"></div>
         </a>
-        <img src="http://localhost/wp-content/themes/fftheme/images/new/DesktopSlicing/home-banner.jpg" alt="">
+<!--        <img src="http://localhost/wp-content/themes/fftheme/images/new/DesktopSlicing/home-banner.jpg" alt="">-->
+        <video style="width: 100%;" playsinline autoplay muted loop id="bgvid">
+            <source src="https://player.vimeo.com/external/178742158.hd.mp4?s=f0cbce173cac9ac85ca59b2a96d34fbafcc1d801&profile_id=119" type="video/mp4">
+        </video>
     </div>
     <div class="FFsearch">
         <h1>Search for Stock Video</h1>
@@ -48,8 +51,8 @@ get_header('ff');
 
 </div>
 <div class="clear"></div>
-<div id="txthome2" class="home_content">
     <img id="midHomeImg" src="http://stage.findingfootage.com/wp-content/themes/fftheme/images/new/DesktopSlicing/keywords-bg.jpg" alt="">
+<div id="txthome2" class="home_content">
 
     <?php
         if (have_posts()) : while (have_posts()) : the_post();
@@ -60,101 +63,22 @@ get_header('ff');
     
     <?php  the_content(); ?>
 
-    <iframe style="border: none; background: #fff; overflow: hidden; width: 292px; height: 258px;" src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FFindingFootage&amp;width=292&amp;height=258&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;border_color&amp;header=false" frameborder="0" scrolling="no" width="320" height="240"></iframe>
+<!--    <iframe style="border: none; background: #fff; overflow: hidden; width: 292px; height: 258px;" src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FFindingFootage&amp;width=292&amp;height=258&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;border_color&amp;header=false" frameborder="0" scrolling="no" width="320" height="240"></iframe>-->
 </div>
 
 
+    <?php
+        $tags = get_tags();
+        $html = '<div class="post_tags">';
+        foreach ( $tags as $tag ) {
+            $tag_link = get_tag_link( $tag->term_id );
+
+            $html .= "<a href='{$tag_link}' title='{$tag->name} Tag' class='{$tag->slug}'>";
+            $html .= "{$tag->name}</a>";
+        }
+        $html .= '</div>';
+        echo $html;
+        ?>
 
 
 <?php get_footer('ff'); ?>
-<!---->
-<!---->
-<!--<style type="text/css">-->
-<!---->
-<!--    #gallery {-->
-<!--        /*        margin: 0 auto;-->
-<!--                height: 200px   ;-->
-<!--                width: 66%;-->
-<!--                margin-left: auto;-->
-<!--                margin-right: auto;-->
-<!--                overflow-y: visible;-->
-<!--                filter: progid:DXImageTransform.Microsoft.Shadow(color='#272229', Direction=135, Strength=10);     */-->
-<!--        /*height: 520px;*/-->
-<!--        margin: 0 auto;-->
-<!--        /*overflow-y: scroll;*/-->
-<!--        overflow: hidden;-->
-<!--        width:76%;-->
-<!--    }-->
-<!---->
-<!---->
-<!---->
-<!--    /* This is the pic to display when the hover action occur over the li that contains the thumbnail  */-->
-<!--    #gallery ul li .mini{-->
-<!--        /* Animation with transition in Safari and Chrome */-->
-<!--        -webkit-transition: all 0.6s ease-in-out;-->
-<!--        /* Animation with transition in Firefox (No supported Yet) */-->
-<!--        -moz-transition: all 0.6s ease-in-out;-->
-<!--        /* Animation with transition in Opera (No supported Yet)*/-->
-<!--        -o-transition: all 0.6s ease-in-out;-->
-<!--        /* The the opacity to 0 to create the fadeOut effect*/-->
-<!--        border:1px solid black;-->
-<!--        /* box shadow effect in Safari and Chrome*/-->
-<!--        -webkit-box-shadow:#272229 2px 2px 10px;-->
-<!--        /* box shadow effect in Firefox*/-->
-<!--        -moz-box-shadow:#272229 2px 2px 10px;-->
-<!--        /* box shadow effect in IE*/-->
-<!--        /*filter:progid:DXImageTransform.Microsoft.Shadow(color='#272229', Direction=135, Strength=5); */-->
-<!--        /* box shadow effect in Browsers that support it, Opera 10.5 pre-alpha release*/-->
-<!--        box-shadow:#272229 2px 2px 10px;-->
-<!--    }-->
-<!---->
-<!---->
-<!--    #gallery ul li .mini:hover{-->
-<!--        cursor:pointer;-->
-<!--    }-->
-<!---->
-<!---->
-<!--    /* This create the desired effect of showing the imagen when we mouseover the thumbnail*/-->
-<!--    #gallery ul li:hover .pic {-->
-<!--        /* width and height is how much the picture is going to growth with the effect */-->
-<!--        width:200px;-->
-<!--        height:200px;-->
-<!--        opacity:1;-->
-<!--        visibility:visible;-->
-<!--        float:right;-->
-<!--    }-->
-<!--    #preview{-->
-<!--        position:absolute;-->
-<!--        z-index:999;-->
-<!--        width:50px;-->
-<!--        height:50px;-->
-<!--        border:1px solid #ccc;-->
-<!--        background:#333;-->
-<!--        padding:5px;-->
-<!--        display:none;-->
-<!--        color:#fff;-->
-<!--        border-radius:8px;-->
-<!--        width: 310px;-->
-<!--        height: 174px;-->
-<!--    }-->
-<!--    #preview img{-->
-<!--        width: 200px;-->
-<!--        height: 200px;-->
-<!--    }-->
-<!---->
-<!--    .loading {-->
-<!--        width: 100%;-->
-<!--        height: 100%;-->
-<!--        position: absolute;-->
-<!--        top: 30%;-->
-<!--        left: 45%;-->
-<!--    }-->
-<!--    #midHomeImg {-->
-<!--        width: 100%;-->
-<!--        position: absolute;-->
-<!--        z-index: -1;-->
-<!--        top: 1000px;-->
-<!--    }-->
-<!--</style>-->
-<!---->
-

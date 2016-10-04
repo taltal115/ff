@@ -1,0 +1,356 @@
+.nav-links-right a{
+    color: #fff;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 15px;
+}
+#signIn {
+    float: right;
+    background: purple;
+    height: 40px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #888888;
+    line-height: 2.5;
+    margin: -10px 10px;
+}
+.FFsearch {
+    color: #fff;
+    position: absolute;
+    margin: 20px auto;
+    left: 0;
+    top: 100px;
+    text-align: center;
+    width: 442px;
+    right: 0;
+}
+
+#searchItem {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+#bigImage {
+    width: 100%;
+    position: relative;
+    z-index: 0;
+}
+#mainWrapper {
+    position: relative;
+}
+#mainWrapper img {
+    width: 100%;
+}
+#midHomeImg {
+    width: 100%;
+    position: relative;
+    top: 300px;
+}
+#logoImage {
+    position: absolute;
+    z-index: 10;
+}
+.FFsearch h4{
+    margin: 5px 0;
+    color: #fff;
+    font-size: 16px;
+}
+.FFsearch h1{
+    margin: 0 0;
+    color: #fff;
+    font-size: 24px;
+}
+.FFsearch .input-box {
+    border: medium none;
+    color: #666666;
+    padding: 2px 5px 0;
+    width: 330px;
+    line-height: 35px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-top: 5px solid #666666;
+    vertical-align: middle;
+    border-bottom: 5px solid #666666;
+    border-left: 5px solid #666666;
+}
+#txthome2 {
+    width: 100%;
+    position: relative;
+    top: 0;
+}
+#txthome2 span,
+#txthome2 a {
+    color: #fff!important;
+}
+
+footer {
+    position: absolute;
+    right: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #181818;
+    text-align: center;
+}
+
+.footer-left {
+    clear: left;
+    float: left;
+    width: 100%;
+    overflow: hidden;
+}
+#main {
+    clear: left;
+    float: left;
+    width: 100%;
+    position: relative;
+    right: 33.333%;
+}
+#footer {
+    float: left;
+    width: 100%;
+    position: relative;
+    font-weight: bold;
+    right: 33.33%;
+    text-align: left;
+    color: #fff;
+}
+
+#footer .left{
+    float: left;
+    width: 29.33%;
+    position: relative;
+    left: 68.67%;
+    overflow: hidden;
+}
+
+#footer p{
+    margin: 10px 0;
+}
+#footer .center{
+    float: left;
+    width: 29.33%;
+    position: relative;
+    left: 72.67%;
+    overflow: hidden;
+}
+#footer .right{
+    float: left;
+    width: 29.33%;
+    position: relative;
+    left: 76.67%;
+    overflow: hidden;
+}
+
+#footer a {
+    color: #fff;
+    text-decoration: none;
+}
+.footer-icons {
+    text-align: left;
+}
+
+footer .sign-up-button {
+    width: 130px;
+    height: 50px;
+    background: purple;
+    border-radius: 30px;
+    text-align: center;
+    line-height: 2.7;
+    border: 3px solid #424040;
+}
+#mainWrapper video{
+    width: 100%;
+}
+#midHomeImg {
+    width: 100%;
+    position: relative;
+    height: 360px;
+    top: 260px;
+    background-image: url(http://stage.findingfootage.com/wp-content/themes/fftheme/images/new/DesktopSlicing/keywords-bg.jpg);
+    background-size: cover;
+    z-index: 0;
+    float: left;
+}
+#gallery {
+    height: 100px;
+}
+
+/* Portrait and Landscape */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 480px)
+and (-webkit-min-device-pixel-ratio: 2) {
+    .FFsearch .input-box {
+        width: 200px;
+        float: left;
+        height: 28px;
+    }
+    .FFsearch {
+        margin: 0px auto;
+        width: initial;
+    }
+    #searchBTN {
+        float: left;
+        width: 100px;
+        height: 30px;
+    }
+    .search-input {
+        margin: 0 0;
+    }
+    #mainWrapper {
+        width: 320px;
+        overflow: hidden;
+        display: block;
+        height: 360px;
+    }
+    #mainWrapper video{
+        width: 260%;
+        margin-left: -230px;
+    }
+    .FFsearch h1 {
+        font-size: 19px;
+    }
+    .FFsearch h4 {
+        font-size: 12px;
+    }
+    .nav-links-right a {
+        display: none;
+    }
+    #freeclips_in .mini {
+        height: 100px;
+        width: 100px;
+    }
+    #midHomeImg {
+        width: 100%;
+        position: relative;
+        height: 360px;
+        top: 260px;
+        background-image: url(http://stage.findingfootage.com/wp-content/themes/fftheme/images/new/iPhoneSlicing/keywords-bg.jpg);
+        background-size: cover;
+        z-index: 0;
+        float: left;
+    }
+    #txthome2{
+        width: 100%;
+        position: relative;
+        top: 0;
+    }
+    #txthome2 p{
+        position: absolute;
+    }
+    #txthome2 p strong{
+        background: purple;
+    }
+    .posts p:first-child {
+        position: relative;
+    }
+    .posts {
+        position: absolute;
+        width: 90%;
+        margin: 0 auto;
+        left: 0;
+        right: 0;
+        top: 450px;
+    }
+    #freeclips_in .mini {
+        height: 100px;
+        width: 100px;
+    }
+    .videos #videos img {
+        height: 100px;
+        width: 100px;
+    }
+    .foundboxs .videos {
+        width: 94%;
+    }
+}
+
+/* Portrait and Landscape */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 480px)
+and (-webkit-min-device-pixel-ratio: 2) {
+    .FFsearch .input-box {
+        width: 200px;
+        float: left;
+        height: 28px;
+    }
+    .FFsearch {
+        margin: 0px auto;
+        width: initial;
+    }
+    #searchBTN {
+        float: left;
+        width: 100px;
+        height: 30px;
+    }
+    .search-input {
+        margin: 0 25px;
+    }
+    #mainWrapper {
+        width: 100%;
+        overflow: hidden;
+        display: block;
+        height: 360px;
+    }
+    #mainWrapper video{
+        width: 260%;
+        margin-left: -230px;
+    }
+    .FFsearch h1 {
+        font-size: 19px;
+    }
+    .FFsearch h4 {
+        font-size: 12px;
+    }
+    .nav-links-right a {
+        display: none;
+    }
+    #freeclips_in .mini {
+        height: 100px;
+        width: 100px;
+    }
+    #midHomeImg {
+        width: 100%;
+        position: relative;
+        height: 570px;
+        top: 260px;
+        background-image: url(http://stage.findingfootage.com/wp-content/themes/fftheme/images/new/iPhoneSlicing/keywords-bg.jpg);
+        background-size: cover;
+        z-index: 0;
+        float: left;
+    }
+    #txthome2{
+        width: 100%;
+        position: relative;
+        top: 0;
+    }
+    #txthome2 p{
+        position: absolute;
+    }
+    #txthome2 p strong{
+        background: purple;
+    }
+    .posts p:first-child {
+        position: relative!important;
+    }
+    .posts {
+        position: absolute;
+        width: 90%;
+        margin: 0 auto;
+        left: 0;
+        right: 0;
+        top: 450px;
+    }
+    #freeclips_in .mini {
+        height: 100px;
+        width: 100px;
+    }
+    .videos #videos img {
+        height: 100px;
+        width: 100px;
+    }
+    .foundboxs .videos {
+        width: 94%;
+    }
+}
+
